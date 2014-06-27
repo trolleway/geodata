@@ -2,53 +2,53 @@
 "type": "FeatureCollection",
                                                                                 
 "features": [
-{ "type": "Feature", "properties": { "name": "УЖД участка \"Торболово\" торфопредприятия \"Колпеница\"" }, "geometry": { "type": "Point", "coordinates": [ 26.082364121952729, 53.049502138229592 ] } }
+{ "type": "Feature", "properties": { "name": "УЖД участка \"Торболово\" торфопредприятия \"Колпеница\"", "marker-sym": "star-stroked" }, "geometry": { "type": "Point", "coordinates": [ 26.082364121952729, 53.049502138229592 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "УЖД Ляховичского торфобрикетного завода" }, "geometry": { "type": "Point", "coordinates": [ 25.950702635441647, 52.805179445076078 ] } }
+{ "type": "Feature", "properties": { "name": "УЖД Ляховичского торфобрикетного завода", "marker-sym": "star-stroked" }, "geometry": { "type": "Point", "coordinates": [ 25.950702635441647, 52.805179445076078 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "УЖД Гутно - Первомайский" }, "geometry": { "type": "Point", "coordinates": [ 25.418548888008882, 53.885981438624007 ] } }
+{ "type": "Feature", "properties": { "name": "УЖД Гутно - Первомайский", "marker-sym": "star-stroked" }, "geometry": { "type": "Point", "coordinates": [ 25.418548888008882, 53.885981438624007 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "УЖД торфопредприятия \"Дитва\"" }, "geometry": { "type": "Point", "coordinates": [ 25.164231292131067, 53.858455756607654 ] } }
+{ "type": "Feature", "properties": { "name": "УЖД торфопредприятия \"Дитва\"", "marker-sym": "star-stroked" }, "geometry": { "type": "Point", "coordinates": [ 25.164231292131067, 53.858455756607654 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "УЖД на участке \"Зубково\" торфопредприятия \"Глинка\"" }, "geometry": { "type": "Point", "coordinates": [ 26.631279967235777, 51.894531859710021 ] } }
+{ "type": "Feature", "properties": { "name": "УЖД на участке \"Зубково\" торфопредприятия \"Глинка\"", "marker-sym": "star-stroked" }, "geometry": { "type": "Point", "coordinates": [ 26.631279967235777, 51.894531859710021 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "УЖД Гатча-Осовского торфопредприятия" }, "geometry": { "type": "Point", "coordinates": [ 24.13739206320745, 52.167003193116095 ] } }
+{ "type": "Feature", "properties": { "name": "УЖД Гатча-Осовского торфопредприятия", "marker-sym": "star-stroked" }, "geometry": { "type": "Point", "coordinates": [ 24.13739206320745, 52.167003193116095 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "УЖД торфопредприятия «Вертелишки»" }, "geometry": { "type": "Point", "coordinates": [ 23.994722667011629, 53.704278978035831 ] } }
+{ "type": "Feature", "properties": { "name": "УЖД торфопредприятия «Вертелишки»", "marker-sym": "star-stroked" }, "geometry": { "type": "Point", "coordinates": [ 23.994722667011629, 53.704278978035831 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "УЖД Сергеевичского торфопредприятия" }, "geometry": { "type": "Point", "coordinates": [ 27.819961913348795, 53.529547950614123 ] } }
+{ "type": "Feature", "properties": { "name": "УЖД Сергеевичского торфопредприятия", "marker-sym": "star-stroked" }, "geometry": { "type": "Point", "coordinates": [ 27.819961913348795, 53.529547950614123 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "УЖД Слуцкого торфопредприятия" }, "geometry": { "type": "Point", "coordinates": [ 27.520306614530671, 53.333671257189806 ] } }
+{ "type": "Feature", "properties": { "name": "УЖД Слуцкого торфопредприятия", "marker-sym": "star-stroked" }, "geometry": { "type": "Point", "coordinates": [ 27.520306614530671, 53.333671257189806 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "УЖД Ошмянского торфопредприятия" }, "geometry": { "type": "Point", "coordinates": [ 25.854162163480979, 54.390632307802043 ] } }
+{ "type": "Feature", "properties": { "name": "УЖД Ошмянского торфопредприятия", "marker-sym": "star-stroked" }, "geometry": { "type": "Point", "coordinates": [ 25.854162163480979, 54.390632307802043 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "УЖД Неманского торфопредприятия" }, "geometry": { "type": "Point", "coordinates": [ 26.663210062352256, 53.629528370904694 ] } }
+{ "type": "Feature", "properties": { "name": "УЖД Неманского торфопредприятия", "marker-sym": "star-stroked" }, "geometry": { "type": "Point", "coordinates": [ 26.663210062352256, 53.629528370904694 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "УЖД Житковичского торфобрикетного завода" }, "geometry": { "type": "Point", "coordinates": [ 27.900127599079809, 52.357953313973717 ] } }
+{ "type": "Feature", "properties": { "name": "УЖД Житковичского торфобрикетного завода", "marker-sym": "star-stroked" }, "geometry": { "type": "Point", "coordinates": [ 27.900127599079809, 52.357953313973717 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "УЖД торфобрикетного завода \"Усвиж-Бук\"" }, "geometry": { "type": "Point", "coordinates": [ 29.710374678560012, 54.49910375679994 ] } }
+{ "type": "Feature", "properties": { "name": "УЖД торфобрикетного завода \"Усвиж-Бук\"", "marker-sym": "star-stroked" }, "geometry": { "type": "Point", "coordinates": [ 29.710374678560012, 54.49910375679994 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "УЖД торфопредприятия \"Красная Звезда\"" }, "geometry": { "type": "Point", "coordinates": [ 26.736789348680887, 53.213579024169476 ] } }
+{ "type": "Feature", "properties": { "name": "УЖД торфопредприятия \"Красная Звезда\"", "marker-sym": "star-stroked" }, "geometry": { "type": "Point", "coordinates": [ 26.736789348680887, 53.213579024169476 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "УЖД торфопредприятия \"Колпеница\"" }, "geometry": { "type": "Point", "coordinates": [ 26.021678557095516, 53.201962939830516 ] } }
+{ "type": "Feature", "properties": { "name": "УЖД торфопредприятия \"Колпеница\"", "marker-sym": "star-stroked" }, "geometry": { "type": "Point", "coordinates": [ 26.021678557095516, 53.201962939830516 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "УЖД Днепровского торфопредприятия" }, "geometry": { "type": "Point", "coordinates": [ 30.373180088765903, 53.604405321340181 ] } }
+{ "type": "Feature", "properties": { "name": "УЖД Днепровского торфопредприятия", "marker-sym": "star-stroked" }, "geometry": { "type": "Point", "coordinates": [ 30.373180088765903, 53.604405321340181 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "УЖД торфопредприятия \"Трушовка\"" }, "geometry": { "type": "Point", "coordinates": [ 29.193717361653228, 54.10575300189187 ] } }
+{ "type": "Feature", "properties": { "name": "УЖД торфопредприятия \"Трушовка\"", "marker-sym": "star-stroked" }, "geometry": { "type": "Point", "coordinates": [ 29.193717361653228, 54.10575300189187 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "УЖД торфопредприятия им. XXIII съезда КПСС" }, "geometry": { "type": "Point", "coordinates": [ 29.021772805787133, 53.821976873803358 ] } }
+{ "type": "Feature", "properties": { "name": "УЖД торфопредприятия им. XXIII съезда КПСС", "marker-sym": "star-stroked" }, "geometry": { "type": "Point", "coordinates": [ 29.021772805787133, 53.821976873803358 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "УЖД Хойникского торфобрикетного завода" }, "geometry": { "type": "Point", "coordinates": [ 29.981530993026606, 51.914404824836836 ] } }
+{ "type": "Feature", "properties": { "name": "УЖД Хойникского торфобрикетного завода", "marker-sym": "star-stroked" }, "geometry": { "type": "Point", "coordinates": [ 29.981530993026606, 51.914404824836836 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "УЖД торфопредприятия \"Оболь\"" }, "geometry": { "type": "Point", "coordinates": [ 29.306838743844668, 55.342661328297126 ] } }
+{ "type": "Feature", "properties": { "name": "УЖД торфопредприятия \"Оболь\"", "marker-sym": "star-stroked" }, "geometry": { "type": "Point", "coordinates": [ 29.306838743844668, 55.342661328297126 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "УЖД Крулевщизненского торфопредприятия" }, "geometry": { "type": "Point", "coordinates": [ 27.818847689495588, 55.036650378816766 ] } }
+{ "type": "Feature", "properties": { "name": "УЖД Крулевщизненского торфопредприятия", "marker-sym": "star-stroked" }, "geometry": { "type": "Point", "coordinates": [ 27.818847689495588, 55.036650378816766 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "УЖД Браславского торфобрикетного завода" }, "geometry": { "type": "Point", "coordinates": [ 27.078940065989148, 55.578247537773173 ] } }
+{ "type": "Feature", "properties": { "name": "УЖД Браславского торфобрикетного завода", "marker-sym": "star-stroked" }, "geometry": { "type": "Point", "coordinates": [ 27.078940065989148, 55.578247537773173 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "УЖД Старобинского торфобрикетного завода" }, "geometry": { "type": "Point", "coordinates": [ 27.4330395832853, 52.730295428759661 ] } }
+{ "type": "Feature", "properties": { "name": "УЖД Старобинского торфобрикетного завода", "marker-sym": "star-stroked" }, "geometry": { "type": "Point", "coordinates": [ 27.4330395832853, 52.730295428759661 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "Минская ДЖД" }, "geometry": { "type": "Point", "coordinates": [ 27.627152137889048, 53.91707086095537 ] } }
+{ "type": "Feature", "properties": { "name": "Минская ДЖД", "marker-sym": "star-stroked" }, "geometry": { "type": "Point", "coordinates": [ 27.627152137889048, 53.91707086095537 ] } }
 
 ]
 }

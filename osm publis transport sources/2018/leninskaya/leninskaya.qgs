@@ -7,10 +7,10 @@
     <customproperties/>
     <layer-tree-group expanded="1" checked="Qt::Checked" name="group1">
       <customproperties/>
-      <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="terminals_export20181121003112113" source="/home/trolleway/geodata/osm publis transport sources/2018/katuar/terminals_export.geojson" name="terminals_export">
+      <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="terminals_export20181121003112113" source="/home/trolleway/geodata/osm publis transport sources/2018/leninskaya/terminals_export.geojson" name="terminals_export">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="routes_with_refs20181121003038046" source="/home/trolleway/geodata/osm publis transport sources/2018/katuar/routes_with_refs.geojson" name="routes_with_refs">
+      <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="routes_with_refs20181121003038046" source="/home/trolleway/geodata/osm publis transport sources/2018/leninskaya/routes_with_refs.geojson" name="routes_with_refs">
         <customproperties/>
       </layer-tree-layer>
       <layer-tree-layer expanded="1" providerKey="wms" checked="Qt::Checked" id="Wikimedia_Map20181121003135130" source="crs=EPSG:3857&amp;format=&amp;type=xyz&amp;url=https://maps.wikimedia.org/osm-intl/%7Bz%7D/%7Bx%7D/%7By%7D.png&amp;zmax=18&amp;zmin=0" name="Wikimedia Map">
@@ -22,10 +22,10 @@
   <mapcanvas>
     <units>meters</units>
     <extent>
-      <xmin>4166516.23304058471694589</xmin>
-      <ymin>7558750.61989849898964167</ymin>
-      <xmax>4185268.1415323899127543</xmax>
-      <ymax>7590777.75086449924856424</ymax>
+      <xmin>4192428.37993243988603354</xmin>
+      <ymin>7442707.21865575853735209</ymin>
+      <xmax>4211180.28842424508184195</xmax>
+      <ymax>7474734.34962175879627466</ymax>
     </extent>
     <rotation>0</rotation>
     <projections>1</projections>
@@ -80,7 +80,7 @@
     </legendgroup>
   </legend>
   <Composer title="Макет 1" visible="0">
-    <Composition resizeToContentsMarginLeft="0" snapping="0" showPages="1" guidesVisible="1" resizeToContentsMarginTop="0" worldFileMap="{c893ba2f-c632-42dc-8f29-4d265ec53e9e}" alignmentSnap="1" printResolution="96" paperWidth="210" gridVisible="0" snapGridOffsetX="0" smartGuides="1" snapGridOffsetY="0" resizeToContentsMarginRight="0" snapTolerancePixels="5" printAsRaster="0" generateWorldFile="0" paperHeight="297" numPages="1" snapGridResolution="10" resizeToContentsMarginBottom="0">
+    <Composition resizeToContentsMarginLeft="0" snapping="0" showPages="1" guidesVisible="1" resizeToContentsMarginTop="0" worldFileMap="{c893ba2f-c632-42dc-8f29-4d265ec53e9e}" alignmentSnap="1" printResolution="96" paperWidth="297" gridVisible="0" snapGridOffsetX="0" smartGuides="1" snapGridOffsetY="0" resizeToContentsMarginRight="0" snapTolerancePixels="5" printAsRaster="0" generateWorldFile="0" paperHeight="210" numPages="2" snapGridResolution="10" resizeToContentsMarginBottom="0">
       <symbol alpha="1" clip_to_extent="1" type="fill" name="">
         <layer pass="0" class="SimpleFill" locked="0">
           <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -99,14 +99,91 @@
       <ComposerLabel valign="64" marginX="1" marginY="1" labelText="Map data: © OpenStreetMap contributors&#xa;Data state: [%format_date( now(),'yyyy-MM')%]" htmlState="0" halign="2">
         <LabelFont description="MS Shell Dlg 2,10,-1,5,50,0,0,0,0,0" style=""/>
         <FontColor red="0" blue="0" green="0"/>
-        <ComposerItem pagey="281.08" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="100.059" y="281.08" visibility="1" zValue="2" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="109.941" outlineWidth="0.3" excludeFromExports="0" uuid="{6a8d34ee-86e2-472c-a6a4-c1695fccebad}" height="15.9203" itemRotation="0" frame="false" pagex="100.059">
+        <ComposerItem pagey="194.08" page="2" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="187.059" y="414.08" visibility="1" zValue="5" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="109.941" outlineWidth="0.3" excludeFromExports="0" uuid="{59de339f-c446-448e-9faa-cbf00d382753}" height="15.9203" itemRotation="0" frame="false" pagex="187.059">
+          <FrameColor alpha="255" red="0" blue="0" green="0"/>
+          <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+          <customproperties/>
+        </ComposerItem>
+      </ComposerLabel>
+      <ComposerLabel valign="32" marginX="1" marginY="1" labelText="3 маршрута на Калужское шоссе на карте не показаны" htmlState="0" halign="1">
+        <LabelFont description="Noto Sans,8,-1,5,50,0,0,0,0,0" style="Regular"/>
+        <FontColor red="0" blue="0" green="0"/>
+        <ComposerItem pagey="0" page="2" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="0.0003" y="220" visibility="1" zValue="4" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="82.5122" outlineWidth="0.3" excludeFromExports="0" uuid="{0a65790d-6064-4e64-8124-1f070bc9c468}" height="11.3394" itemRotation="0" frame="false" pagex="0.0003">
+          <FrameColor alpha="255" red="0" blue="0" green="0"/>
+          <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+          <customproperties/>
+        </ComposerItem>
+      </ComposerLabel>
+      <ComposerMap followPreset="false" mapRotation="0" keepLayerSet="false" followPresetName="" id="1" previewMode="Cache" drawCanvasItems="true">
+        <Extent ymin="7445791.07914868462830782" xmin="4175346.0534297195263207" ymax="7481446.55610647425055504" xmax="4225773.08512716460973024"/>
+        <LayerSet/>
+        <Grid/>
+        <ComposerMapGrid rightAnnotationDirection="0" gridFramePenColor="0,0,0,255" show="0" bottomAnnotationPosition="1" annotationPrecision="3" showAnnotation="0" topFrameDivisions="0" uuid="{a2182037-5b6d-4897-abaa-55b9cad8e735}" leftAnnotationDirection="0" topAnnotationPosition="1" rightAnnotationDisplay="0" offsetX="0" offsetY="0" rightFrameDivisions="0" gridStyle="0" annotationFontColor="0,0,0,255" intervalX="0" gridFrameSideFlags="15" intervalY="0" bottomAnnotationDirection="0" leftAnnotationDisplay="0" leftFrameDivisions="0" frameFillColor1="255,255,255,255" annotationExpression="" frameFillColor2="0,0,0,255" crossLength="3" gridFramePenThickness="0.5" bottomAnnotationDisplay="0" unit="0" topAnnotationDisplay="0" leftAnnotationPosition="1" blendMode="0" gridFrameStyle="0" rightAnnotationPosition="1" gridFrameWidth="2" name="Сетка 1" annotationFormat="0" bottomFrameDivisions="0" topAnnotationDirection="0" frameAnnotationDistance="1">
+          <lineStyle>
+            <symbol alpha="1" clip_to_extent="1" type="line" name="">
+              <layer pass="0" class="SimpleLine" locked="0">
+                <prop k="capstyle" v="square"/>
+                <prop k="customdash" v="5;2"/>
+                <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="customdash_unit" v="MM"/>
+                <prop k="draw_inside_polygon" v="0"/>
+                <prop k="joinstyle" v="bevel"/>
+                <prop k="line_color" v="0,0,0,255"/>
+                <prop k="line_style" v="solid"/>
+                <prop k="line_width" v="0"/>
+                <prop k="line_width_unit" v="MM"/>
+                <prop k="offset" v="0"/>
+                <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="offset_unit" v="MM"/>
+                <prop k="use_custom_dash" v="0"/>
+                <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
+              </layer>
+            </symbol>
+          </lineStyle>
+          <markerStyle>
+            <symbol alpha="1" clip_to_extent="1" type="marker" name="">
+              <layer pass="0" class="SimpleMarker" locked="0">
+                <prop k="angle" v="0"/>
+                <prop k="color" v="0,0,0,255"/>
+                <prop k="horizontal_anchor_point" v="1"/>
+                <prop k="joinstyle" v="bevel"/>
+                <prop k="name" v="circle"/>
+                <prop k="offset" v="0,0"/>
+                <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="offset_unit" v="MM"/>
+                <prop k="outline_color" v="0,0,0,255"/>
+                <prop k="outline_style" v="solid"/>
+                <prop k="outline_width" v="0"/>
+                <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="outline_width_unit" v="MM"/>
+                <prop k="scale_method" v="diameter"/>
+                <prop k="size" v="2"/>
+                <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="size_unit" v="MM"/>
+                <prop k="vertical_anchor_point" v="1"/>
+              </layer>
+            </symbol>
+          </markerStyle>
+          <annotationFontProperties description="Noto Sans,10,-1,0,50,0,0,0,0,0" style=""/>
+        </ComposerMapGrid>
+        <AtlasMap scalingMode="2" atlasDriven="0" margin="0.10000000000000001"/>
+        <ComposerItem pagey="0" page="2" id="" lastValidViewScaleFactor="4.14484" positionMode="0" positionLock="false" x="0" y="220" visibility="1" zValue="3" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="297" outlineWidth="0.3" excludeFromExports="0" uuid="{91fc4975-2826-438d-958a-ae5e550d2257}" height="210" itemRotation="0" frame="false" pagex="0">
+          <FrameColor alpha="255" red="0" blue="0" green="0"/>
+          <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+          <customproperties/>
+        </ComposerItem>
+      </ComposerMap>
+      <ComposerLabel valign="64" marginX="1" marginY="1" labelText="Map data: © OpenStreetMap contributors&#xa;Data state: [%format_date( now(),'yyyy-MM')%]" htmlState="0" halign="2">
+        <LabelFont description="MS Shell Dlg 2,10,-1,5,50,0,0,0,0,0" style=""/>
+        <FontColor red="0" blue="0" green="0"/>
+        <ComposerItem pagey="194.08" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="187.059" y="194.08" visibility="1" zValue="2" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="109.941" outlineWidth="0.3" excludeFromExports="0" uuid="{6a8d34ee-86e2-472c-a6a4-c1695fccebad}" height="15.9203" itemRotation="0" frame="false" pagex="187.059">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
         </ComposerItem>
       </ComposerLabel>
       <ComposerMap followPreset="false" mapRotation="0" keepLayerSet="false" followPresetName="" id="0" previewMode="Cache" drawCanvasItems="true">
-        <Extent ymin="7563931.04710956569761038" xmin="4172965.55339133879169822" ymax="7586917.26359563414007425" xmax="4189218.4105166238732636"/>
+        <Extent ymin="7464800.41698550060391426" xmin="4190437.74747095722705126" ymax="7473714.28622494824230671" xmax="4203044.50539531838148832"/>
         <LayerSet/>
         <Grid/>
         <ComposerMapGrid rightAnnotationDirection="0" gridFramePenColor="0,0,0,255" show="0" bottomAnnotationPosition="1" annotationPrecision="3" showAnnotation="0" topFrameDivisions="0" uuid="{5f246f50-3c64-4813-8ba9-46f868329f52}" leftAnnotationDirection="0" topAnnotationPosition="1" rightAnnotationDisplay="0" offsetX="0" offsetY="0" rightFrameDivisions="0" gridStyle="0" annotationFontColor="0,0,0,255" intervalX="0" gridFrameSideFlags="15" intervalY="0" bottomAnnotationDirection="0" leftAnnotationDisplay="0" leftFrameDivisions="0" frameFillColor1="255,255,255,255" annotationExpression="" frameFillColor2="0,0,0,255" crossLength="3" gridFramePenThickness="0.5" bottomAnnotationDisplay="0" unit="0" topAnnotationDisplay="0" leftAnnotationPosition="1" blendMode="0" gridFrameStyle="0" rightAnnotationPosition="1" gridFrameWidth="2" name="Сетка 1" annotationFormat="0" bottomFrameDivisions="0" topAnnotationDirection="0" frameAnnotationDistance="1">
@@ -158,7 +235,7 @@
           <annotationFontProperties description="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" style=""/>
         </ComposerMapGrid>
         <AtlasMap scalingMode="2" atlasDriven="0" margin="0.10000000000000001"/>
-        <ComposerItem pagey="0" page="1" id="" lastValidViewScaleFactor="2.93969" positionMode="0" positionLock="false" x="0.0003" y="0" visibility="1" zValue="1" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="210" outlineWidth="0.3" excludeFromExports="0" uuid="{c893ba2f-c632-42dc-8f29-4d265ec53e9e}" height="297" itemRotation="0" frame="false" pagex="0.0003">
+        <ComposerItem pagey="0" page="1" id="" lastValidViewScaleFactor="4.14484" positionMode="0" positionLock="false" x="0.0003" y="0" visibility="1" zValue="1" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="297" outlineWidth="0.3" excludeFromExports="0" uuid="{c893ba2f-c632-42dc-8f29-4d265ec53e9e}" height="210" itemRotation="0" frame="false" pagex="0.0003">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>

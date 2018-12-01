@@ -1,0 +1,19 @@
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "note": "Некоторые рейсы из Михнево доезжают сюда"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.71016357183,
+                    55.03287994259
+                ]
+            }
+        }
+    ]
+}

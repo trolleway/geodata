@@ -5,7 +5,7 @@
 ```
 [out:xml][timeout:25];
 (
-  relation["route"="bus"](54.823,37.639,54.845,37.5926);
+  relation["route"="bus"](54.823,37.5926,54.845,37.639);
 );
 out body;
 >;

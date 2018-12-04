@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "notes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "note": "От метро Лесопарковая" }, "geometry": { "type": "Point", "coordinates": [ 37.540527496002987, 54.981839754427604 ] } }
+]
+}

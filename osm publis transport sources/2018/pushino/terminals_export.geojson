@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "terminals_export",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "terminal_id": 1, "name": "Протвино", "routes": "42", "long_text": "Протвино [42]" }, "geometry": { "type": "Point", "coordinates": [ 37.212833, 54.8622905 ] } },
+{ "type": "Feature", "properties": { "terminal_id": 2, "name": "Серпухов", "routes": "26,33", "long_text": "Серпухов [26,33]" }, "geometry": { "type": "Point", "coordinates": [ 37.4508806, 54.9341716 ] } },
+{ "type": "Feature", "properties": { "terminal_id": 3, "name": "Кладбище", "routes": "64", "long_text": "Кладбище [64]" }, "geometry": { "type": "Point", "coordinates": [ 37.5685236, 54.8324205 ] } },
+{ "type": "Feature", "properties": { "terminal_id": 4, "name": "\"Метро \\\"Лесопарковая\\\"\"", "routes": "359", "long_text": "Метро \"Лесопарковая [359]" }, "geometry": { "type": "Point", "coordinates": [ 37.5783308, 55.581926 ] } },
+{ "type": "Feature", "properties": { "terminal_id": 5, "name": "\"Большое Грызлово\"", "routes": "37", "long_text": "Большое Грызлово [37]" }, "geometry": { "type": "Point", "coordinates": [ 37.6294877, 54.8045074 ] } },
+{ "type": "Feature", "properties": { "terminal_id": 6, "name": "Пущино", "routes": "26,33,359,36,37,42,64", "long_text": "Пущино [26,33,36,37,42,64,359]" }, "geometry": { "type": "Point", "coordinates": [ 37.63168302857143, 54.8327541 ] } },
+{ "type": "Feature", "properties": { "terminal_id": 7, "name": "\"Микрорайон Д\"", "routes": "13", "long_text": "Микрорайон Д [13]" }, "geometry": { "type": "Point", "coordinates": [ 37.638173, 54.8281887 ] } },
+{ "type": "Feature", "properties": { "terminal_id": 8, "name": "Волохово", "routes": "36", "long_text": "Волохово [36]" }, "geometry": { "type": "Point", "coordinates": [ 37.7124624, 54.7777164 ] } }
+]
+}

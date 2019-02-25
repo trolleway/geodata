@@ -1,0 +1,5969 @@
+
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "name": "Малое кольцо Московской железной дороги",
+                "railway": "rail",
+                "ref": "1",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.50775580000,
+                        55.83110270000
+                    ],
+                    [
+                        37.50912640000,
+                        55.83191230000
+                    ],
+                    [
+                        37.51096210000,
+                        55.83314180000
+                    ],
+                    [
+                        37.51384480000,
+                        55.83519300000
+                    ],
+                    [
+                        37.51652320000,
+                        55.83709330000
+                    ],
+                    [
+                        37.51670190000,
+                        55.83721470000
+                    ],
+                    [
+                        37.51959820000,
+                        55.83920000000
+                    ],
+                    [
+                        37.52017540000,
+                        55.83957540000
+                    ],
+                    [
+                        37.52049160000,
+                        55.83976640000
+                    ],
+                    [
+                        37.52081880000,
+                        55.83995800000
+                    ],
+                    [
+                        37.52141390000,
+                        55.84025340000
+                    ],
+                    [
+                        37.52164230000,
+                        55.84036480000
+                    ],
+                    [
+                        37.52222420000,
+                        55.84064080000
+                    ],
+                    [
+                        37.52312290000,
+                        55.84099430000
+                    ],
+                    [
+                        37.52364740000,
+                        55.84114120000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "construction": "rail",
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "layer": "1",
+                "oneway": "yes",
+                "passenger_lines": "3",
+                "railway": "rail",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.72734630000,
+                        55.73113320000
+                    ],
+                    [
+                        37.72691050000,
+                        55.73041630000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "operator": "Российские железные дороги",
+                "railway": "rail",
+                "railway:preferred_direction": "forward",
+                "railway:traffic_mode": "passenger",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.64306070000,
+                        55.84525580000
+                    ],
+                    [
+                        37.64618000000,
+                        55.84498770000
+                    ],
+                    [
+                        37.64757680000,
+                        55.84486590000
+                    ],
+                    [
+                        37.64880040000,
+                        55.84473430000
+                    ],
+                    [
+                        37.64945380000,
+                        55.84464640000
+                    ],
+                    [
+                        37.65002580000,
+                        55.84456200000
+                    ],
+                    [
+                        37.65085400000,
+                        55.84439740000
+                    ],
+                    [
+                        37.65158750000,
+                        55.84423430000
+                    ],
+                    [
+                        37.65222230000,
+                        55.84408100000
+                    ],
+                    [
+                        37.65314270000,
+                        55.84382140000
+                    ],
+                    [
+                        37.65507510000,
+                        55.84324570000
+                    ],
+                    [
+                        37.65669570000,
+                        55.84274820000
+                    ],
+                    [
+                        37.65942870000,
+                        55.84190980000
+                    ],
+                    [
+                        37.65974850000,
+                        55.84181170000
+                    ],
+                    [
+                        37.66290070000,
+                        55.84084830000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "electrified": "yes",
+                "frequency": "0",
+                "gauge": "1520",
+                "layer": "1",
+                "name": "Малое кольцо Московской железной дороги",
+                "oneway": "yes",
+                "railway": "rail",
+                "ref": "1",
+                "usage": "main"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.48663750000,
+                        55.81685360000
+                    ],
+                    [
+                        37.48663870000,
+                        55.81711840000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "oneway": "yes",
+                "railway": "rail",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.54675720000,
+                        55.72917570000
+                    ],
+                    [
+                        37.54620490000,
+                        55.72975200000
+                    ],
+                    [
+                        37.54512890000,
+                        55.73086720000
+                    ],
+                    [
+                        37.54427530000,
+                        55.73177910000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "layer": "-2",
+                "name": "Площадь Гагарина",
+                "network": "МЦК",
+                "operator": "ГУП «Московский метрополитен»",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes",
+                "transport": "subway",
+                "wikidata": "Q4365527",
+                "wikipedia": "ru:Площадь Гагарина (платформа)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.58642440000,
+                    55.70698100000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "railway": "crossing"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.61608880000,
+                    55.68960720000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "railway": "rail",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.74412180000,
+                        55.79263890000
+                    ],
+                    [
+                        37.74341070000,
+                        55.79044110000
+                    ],
+                    [
+                        37.74317710000,
+                        55.78979280000
+                    ],
+                    [
+                        37.74304480000,
+                        55.78935200000
+                    ],
+                    [
+                        37.74295230000,
+                        55.78885470000
+                    ],
+                    [
+                        37.74290010000,
+                        55.78852330000
+                    ],
+                    [
+                        37.74285970000,
+                        55.78796680000
+                    ],
+                    [
+                        37.74286280000,
+                        55.78771800000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "electrified": "yes",
+                "frequency": "0",
+                "gauge": "1520",
+                "layer": "1",
+                "name": "Малое кольцо Московской железной дороги",
+                "oneway": "yes",
+                "railway": "rail",
+                "usage": "main"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.48679870000,
+                        55.81513670000
+                    ],
+                    [
+                        37.48676260000,
+                        55.81549220000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "layer": "1",
+                "oneway": "yes",
+                "railway": "rail",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.54427530000,
+                        55.73177910000
+                    ],
+                    [
+                        37.54362550000,
+                        55.73245690000
+                    ],
+                    [
+                        37.54327820000,
+                        55.73280000000
+                    ],
+                    [
+                        37.54292230000,
+                        55.73312990000
+                    ],
+                    [
+                        37.54251270000,
+                        55.73345360000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "railway": "rail",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.74440820000,
+                        55.79349650000
+                    ],
+                    [
+                        37.74432970000,
+                        55.79325260000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "oneway": "yes",
+                "passenger_lines": "3",
+                "railway": "rail",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.72919500000,
+                        55.73393670000
+                    ],
+                    [
+                        37.72905270000,
+                        55.73375540000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Кутузовская",
+                "network": "МЦК",
+                "operator": "ГУП «Московский метрополитен»",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes",
+                "transport": "subway",
+                "wikidata": "Q4249639",
+                "wikipedia": "ru:Кутузовская (платформа, МКЖД)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.53412780000,
+                    55.73993670000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "layer": "1",
+                "oneway": "yes",
+                "railway": "rail",
+                "source": "Bing",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.63144940000,
+                        55.84585910000
+                    ],
+                    [
+                        37.63266250000,
+                        55.84581130000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "railway": "switch"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.70639320000,
+                    55.82790380000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "railway": "switch"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.53310230000,
+                    55.74330600000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "railway": "rail",
+                "railway:preferred_direction": "forward",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.49018070000,
+                        55.80933520000
+                    ],
+                    [
+                        37.48929970000,
+                        55.81032760000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "oneway": "yes",
+                "railway": "rail",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.62141710000,
+                        55.69066590000
+                    ],
+                    [
+                        37.61884820000,
+                        55.69015880000
+                    ],
+                    [
+                        37.61728400000,
+                        55.68983950000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Лужники",
+                "name:de": "Luschniki",
+                "name:en": "Luzhniki",
+                "name:ru": "Лужники",
+                "network": "МЦК",
+                "operator": "ГУП «Московский метрополитен»",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes",
+                "transport": "subway",
+                "wikidata": "Q22687448",
+                "wikipedia": "ru:Лужники (платформа)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.55990880000,
+                    55.72106780000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "layer": "1",
+                "oneway": "yes",
+                "railway": "rail",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.73069040000,
+                        55.73636370000
+                    ],
+                    [
+                        37.73051710000,
+                        55.73607300000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "crossing": "unmarked",
+                "crossing:barrier": "no",
+                "railway": "crossing"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.68294330000,
+                    55.71418950000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Зорге",
+                "network": "МЦК",
+                "operator": "ГУП «Московский метрополитен»",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes",
+                "transport": "subway",
+                "wikidata": "Q23644362",
+                "wikipedia": "ru:Зорге (платформа)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.50440210000,
+                    55.78849730000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Стрешнево",
+                "network": "МЦК",
+                "operator": "ГУП «Московский метрополитен»",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes",
+                "transport": "subway",
+                "wikidata": "Q21195520",
+                "wikipedia": "ru:Стрешнево (станция МЦК)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.48703950000,
+                    55.81370120000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "operator": "Российские железные дороги",
+                "railway": "rail",
+                "railway:preferred_direction": "forward",
+                "railway:traffic_mode": "passenger",
+                "source": "Bing",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.63640160000,
+                        55.84567090000
+                    ],
+                    [
+                        37.63753980000,
+                        55.84562410000
+                    ],
+                    [
+                        37.63847560000,
+                        55.84558600000
+                    ],
+                    [
+                        37.63920120000,
+                        55.84555190000
+                    ],
+                    [
+                        37.64004280000,
+                        55.84550190000
+                    ],
+                    [
+                        37.64140920000,
+                        55.84539700000
+                    ],
+                    [
+                        37.64306070000,
+                        55.84525580000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "railway": "rail",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.55552700000,
+                        55.84843830000
+                    ],
+                    [
+                        37.55570290000,
+                        55.84850060000
+                    ],
+                    [
+                        37.55601240000,
+                        55.84860420000
+                    ],
+                    [
+                        37.55630320000,
+                        55.84870700000
+                    ],
+                    [
+                        37.55662140000,
+                        55.84881400000
+                    ],
+                    [
+                        37.55692590000,
+                        55.84890660000
+                    ],
+                    [
+                        37.55728340000,
+                        55.84901050000
+                    ],
+                    [
+                        37.55764290000,
+                        55.84910560000
+                    ],
+                    [
+                        37.55793990000,
+                        55.84917200000
+                    ],
+                    [
+                        37.55821940000,
+                        55.84923120000
+                    ],
+                    [
+                        37.55851340000,
+                        55.84929250000
+                    ],
+                    [
+                        37.55880950000,
+                        55.84934590000
+                    ],
+                    [
+                        37.55913140000,
+                        55.84939920000
+                    ],
+                    [
+                        37.55943890000,
+                        55.84944360000
+                    ],
+                    [
+                        37.55980280000,
+                        55.84949610000
+                    ],
+                    [
+                        37.56017490000,
+                        55.84953940000
+                    ],
+                    [
+                        37.56058750000,
+                        55.84958590000
+                    ],
+                    [
+                        37.56099640000,
+                        55.84962390000
+                    ],
+                    [
+                        37.56131460000,
+                        55.84964450000
+                    ],
+                    [
+                        37.56161660000,
+                        55.84966290000
+                    ],
+                    [
+                        37.56200640000,
+                        55.84968630000
+                    ],
+                    [
+                        37.56238540000,
+                        55.84969860000
+                    ],
+                    [
+                        37.56276550000,
+                        55.84970340000
+                    ],
+                    [
+                        37.56314480000,
+                        55.84970710000
+                    ],
+                    [
+                        37.56367880000,
+                        55.84971020000
+                    ],
+                    [
+                        37.56400620000,
+                        55.84970700000
+                    ],
+                    [
+                        37.56432450000,
+                        55.84970140000
+                    ],
+                    [
+                        37.56467940000,
+                        55.84968870000
+                    ],
+                    [
+                        37.56506880000,
+                        55.84966330000
+                    ],
+                    [
+                        37.56548700000,
+                        55.84963140000
+                    ],
+                    [
+                        37.56589670000,
+                        55.84959390000
+                    ],
+                    [
+                        37.56626140000,
+                        55.84955120000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "oneway": "yes",
+                "passenger_lines": "3",
+                "railway": "rail",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.72691050000,
+                        55.73041630000
+                    ],
+                    [
+                        37.72629190000,
+                        55.72934780000
+                    ],
+                    [
+                        37.72611470000,
+                        55.72905250000
+                    ],
+                    [
+                        37.72558630000,
+                        55.72833200000
+                    ],
+                    [
+                        37.72517590000,
+                        55.72786680000
+                    ],
+                    [
+                        37.72455900000,
+                        55.72731850000
+                    ],
+                    [
+                        37.72396620000,
+                        55.72688650000
+                    ],
+                    [
+                        37.72350760000,
+                        55.72660410000
+                    ],
+                    [
+                        37.72286120000,
+                        55.72621290000
+                    ],
+                    [
+                        37.72215310000,
+                        55.72587450000
+                    ],
+                    [
+                        37.72153620000,
+                        55.72562680000
+                    ],
+                    [
+                        37.72083880000,
+                        55.72535790000
+                    ],
+                    [
+                        37.71995370000,
+                        55.72507700000
+                    ],
+                    [
+                        37.71888060000,
+                        55.72478160000
+                    ],
+                    [
+                        37.71690210000,
+                        55.72420980000
+                    ],
+                    [
+                        37.71520400000,
+                        55.72371900000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Андроновка",
+                "network": "МЦК",
+                "operator": "ГУП «Московский метрополитен»",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes",
+                "transport": "subway",
+                "wikidata": "Q27138887",
+                "wikipedia": "ru:Андроновка (платформа)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.73768510000,
+                    55.74707000000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "oneway": "yes",
+                "railway": "rail",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.62683380000,
+                        55.69152310000
+                    ],
+                    [
+                        37.62453070000,
+                        55.69124430000
+                    ],
+                    [
+                        37.62373350000,
+                        55.69112680000
+                    ],
+                    [
+                        37.62303030000,
+                        55.69099510000
+                    ],
+                    [
+                        37.62232200000,
+                        55.69085340000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "embankment": "yes",
+                "frequency": "0",
+                "gauge": "1520",
+                "layer": "1",
+                "oneway": "yes",
+                "railway": "rail",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.56922600000,
+                        55.71819370000
+                    ],
+                    [
+                        37.56781270000,
+                        55.71863500000
+                    ],
+                    [
+                        37.56725590000,
+                        55.71880830000
+                    ],
+                    [
+                        37.56422470000,
+                        55.71974780000
+                    ],
+                    [
+                        37.56210060000,
+                        55.72040750000
+                    ],
+                    [
+                        37.56132650000,
+                        55.72063970000
+                    ],
+                    [
+                        37.56084600000,
+                        55.72078380000
+                    ],
+                    [
+                        37.55990880000,
+                        55.72106780000
+                    ],
+                    [
+                        37.55822420000,
+                        55.72157840000
+                    ],
+                    [
+                        37.55715530000,
+                        55.72189700000
+                    ],
+                    [
+                        37.55570320000,
+                        55.72237430000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "no",
+                "note": "Участок перехода между секцией по трекам на востоке и хз чем на западе",
+                "oneway": "yes",
+                "railway": "rail",
+                "usage": "main"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.71164250000,
+                        55.82612040000
+                    ],
+                    [
+                        37.71226330000,
+                        55.82590970000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "oneway": "yes",
+                "railway": "rail",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.73108820000,
+                        55.73710180000
+                    ],
+                    [
+                        37.73093700000,
+                        55.73680600000
+                    ],
+                    [
+                        37.73084150000,
+                        55.73662120000
+                    ],
+                    [
+                        37.73069040000,
+                        55.73636370000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "bridge:structure": "beam",
+                "electrified": "contact_line",
+                "fixme": "continue",
+                "frequency": "0",
+                "gauge": "1520",
+                "layer": "1",
+                "railway": "rail",
+                "railway:preferred_direction": "forward",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.50488060000,
+                        55.78634210000
+                    ],
+                    [
+                        37.50484330000,
+                        55.78651530000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Шелепиха",
+                "network": "МЦК",
+                "operator": "ГУП «Московский метрополитен»",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes",
+                "transport": "subway",
+                "wikidata": "Q23673582",
+                "wikipedia": "ru:Шелепиха (платформа)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.52568590000,
+                    55.75730880000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "oneway": "yes",
+                "passenger_lines": "3",
+                "railway": "rail",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.73051710000,
+                        55.73607300000
+                    ],
+                    [
+                        37.73034840000,
+                        55.73578540000
+                    ],
+                    [
+                        37.73019440000,
+                        55.73552930000
+                    ],
+                    [
+                        37.73007280000,
+                        55.73532850000
+                    ],
+                    [
+                        37.72988360000,
+                        55.73501900000
+                    ],
+                    [
+                        37.72969990000,
+                        55.73471830000
+                    ],
+                    [
+                        37.72935590000,
+                        55.73415520000
+                    ],
+                    [
+                        37.72919500000,
+                        55.73393670000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "railway": "switch"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.49018070000,
+                    55.80933520000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Деловой центр",
+                "network": "МЦК",
+                "operator": "ГУП «Московский метрополитен»",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes",
+                "transport": "subway",
+                "wikidata": "Q23525317",
+                "wikipedia": "ru:Деловой центр (платформа)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.53214080000,
+                    55.74756030000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "oneway": "yes",
+                "railway": "rail",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.67945020000,
+                        55.71316210000
+                    ],
+                    [
+                        37.67779740000,
+                        55.71269800000
+                    ],
+                    [
+                        37.67629470000,
+                        55.71227610000
+                    ],
+                    [
+                        37.67559960000,
+                        55.71206940000
+                    ],
+                    [
+                        37.67401470000,
+                        55.71159510000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "layer": "1",
+                "oneway": "yes",
+                "railway": "rail",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.57164650000,
+                        55.71741540000
+                    ],
+                    [
+                        37.57121330000,
+                        55.71756210000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "railway": "rail"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.63717190000,
+                        55.69301130000
+                    ],
+                    [
+                        37.63674520000,
+                        55.69290670000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Шоссе Энтузиастов",
+                "network": "МЦК",
+                "operator": "ГУП «Московский метрополитен»",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes",
+                "transport": "subway",
+                "wikidata": "Q26857851",
+                "wikipedia": "ru:Шоссе Энтузиастов (платформа)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.74593630000,
+                    55.75890200000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "railway": "rail",
+                "railway:preferred_direction": "forward",
+                "ref": "1",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.74195580000,
+                        55.81451830000
+                    ],
+                    [
+                        37.74267350000,
+                        55.81407550000
+                    ],
+                    [
+                        37.74337420000,
+                        55.81354070000
+                    ],
+                    [
+                        37.74401450000,
+                        55.81298730000
+                    ],
+                    [
+                        37.74456110000,
+                        55.81241580000
+                    ],
+                    [
+                        37.74500820000,
+                        55.81181120000
+                    ],
+                    [
+                        37.74540880000,
+                        55.81111980000
+                    ],
+                    [
+                        37.74557280000,
+                        55.81077470000
+                    ],
+                    [
+                        37.74569510000,
+                        55.81042900000
+                    ],
+                    [
+                        37.74582960000,
+                        55.80972010000
+                    ],
+                    [
+                        37.74586820000,
+                        55.80883240000
+                    ],
+                    [
+                        37.74587520000,
+                        55.80867190000
+                    ],
+                    [
+                        37.74596760000,
+                        55.80694440000
+                    ],
+                    [
+                        37.74592320000,
+                        55.80606640000
+                    ],
+                    [
+                        37.74591520000,
+                        55.80563530000
+                    ],
+                    [
+                        37.74596090000,
+                        55.80413460000
+                    ],
+                    [
+                        37.74604250000,
+                        55.80247020000
+                    ],
+                    [
+                        37.74612760000,
+                        55.80140990000
+                    ],
+                    [
+                        37.74612830000,
+                        55.80133330000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "oneway": "yes",
+                "railway": "rail",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.54995070000,
+                        55.84677000000
+                    ],
+                    [
+                        37.55054510000,
+                        55.84690260000
+                    ],
+                    [
+                        37.55100390000,
+                        55.84702030000
+                    ],
+                    [
+                        37.55148480000,
+                        55.84714820000
+                    ],
+                    [
+                        37.55197010000,
+                        55.84727420000
+                    ],
+                    [
+                        37.55241900000,
+                        55.84741770000
+                    ],
+                    [
+                        37.55392080000,
+                        55.84789340000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "layer": "1",
+                "oneway": "yes",
+                "railway": "rail",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.57021800000,
+                        55.71788570000
+                    ],
+                    [
+                        37.56922600000,
+                        55.71819370000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Нижегородская",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes",
+                "wikidata": "Q23564382",
+                "wikipedia": "ru:Нижегородская (платформа)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.72800120000,
+                    55.73221040000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "railway": "rail",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.58079460000,
+                        55.84775070000
+                    ],
+                    [
+                        37.58350040000,
+                        55.84765200000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "layer": "1",
+                "oneway": "yes",
+                "railway": "rail",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.53047980000,
+                        55.75098340000
+                    ],
+                    [
+                        37.52992070000,
+                        55.75166350000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "railway": "rail",
+                "railway:preferred_direction": "forward",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.52745050000,
+                        55.75494570000
+                    ],
+                    [
+                        37.52685990000,
+                        55.75570670000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Бульвар Рокоссовского",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes",
+                "wikidata": "Q23673578",
+                "wikipedia": "ru:Бульвар Рокоссовского (платформа)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.73731010000,
+                    55.81701890000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "layer": "1",
+                "oneway": "yes",
+                "railway": "rail",
+                "source": "Bing",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.63526140000,
+                        55.84571210000
+                    ],
+                    [
+                        37.63640160000,
+                        55.84567090000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "layer": "1",
+                "oneway": "yes",
+                "railway": "rail",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.55392080000,
+                        55.84789340000
+                    ],
+                    [
+                        37.55552700000,
+                        55.84843830000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "railway": "rail",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.74612830000,
+                        55.80133330000
+                    ],
+                    [
+                        37.74615970000,
+                        55.80110190000
+                    ],
+                    [
+                        37.74619920000,
+                        55.80043050000
+                    ],
+                    [
+                        37.74620260000,
+                        55.79895060000
+                    ],
+                    [
+                        37.74615210000,
+                        55.79851630000
+                    ],
+                    [
+                        37.74584710000,
+                        55.79739630000
+                    ],
+                    [
+                        37.74531080000,
+                        55.79589980000
+                    ],
+                    [
+                        37.74440820000,
+                        55.79349650000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "railway": "rail",
+                "railway:preferred_direction": "forward",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.61728400000,
+                        55.68983950000
+                    ],
+                    [
+                        37.61608880000,
+                        55.68960720000
+                    ],
+                    [
+                        37.61540250000,
+                        55.68947230000
+                    ],
+                    [
+                        37.61477360000,
+                        55.68935750000
+                    ],
+                    [
+                        37.61439650000,
+                        55.68930300000
+                    ],
+                    [
+                        37.61396390000,
+                        55.68924770000
+                    ],
+                    [
+                        37.61324570000,
+                        55.68917940000
+                    ],
+                    [
+                        37.61282870000,
+                        55.68914900000
+                    ],
+                    [
+                        37.61226890000,
+                        55.68914140000
+                    ],
+                    [
+                        37.61154350000,
+                        55.68913770000
+                    ],
+                    [
+                        37.61080060000,
+                        55.68915030000
+                    ],
+                    [
+                        37.61040340000,
+                        55.68916220000
+                    ],
+                    [
+                        37.60960570000,
+                        55.68922190000
+                    ],
+                    [
+                        37.60891290000,
+                        55.68929170000
+                    ],
+                    [
+                        37.60815350000,
+                        55.68940110000
+                    ],
+                    [
+                        37.60755300000,
+                        55.68950200000
+                    ],
+                    [
+                        37.60681100000,
+                        55.68965260000
+                    ],
+                    [
+                        37.60598570000,
+                        55.68986070000
+                    ],
+                    [
+                        37.60577990000,
+                        55.68990990000
+                    ],
+                    [
+                        37.60522010000,
+                        55.69006870000
+                    ],
+                    [
+                        37.60474110000,
+                        55.69022310000
+                    ],
+                    [
+                        37.60428970000,
+                        55.69037930000
+                    ],
+                    [
+                        37.60381410000,
+                        55.69055910000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "operator": "Российские железные дороги",
+                "railway": "rail",
+                "railway:preferred_direction": "forward",
+                "railway:traffic_mode": "passenger",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.66362230000,
+                        55.84062260000
+                    ],
+                    [
+                        37.66548450000,
+                        55.84003850000
+                    ],
+                    [
+                        37.66683250000,
+                        55.83964190000
+                    ],
+                    [
+                        37.66913990000,
+                        55.83897080000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "railway": "switch"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.74597390000,
+                    55.76249590000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Угрешская",
+                "network": "МЦК",
+                "operator": "ГУП «Московский метрополитен»",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes",
+                "transport": "subway",
+                "wikidata": "Q23673589",
+                "wikipedia": "ru:Угрешская (платформа)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.69764970000,
+                    55.71851190000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "railway": "rail",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.57319530000,
+                        55.84855540000
+                    ],
+                    [
+                        37.57358350000,
+                        55.84848970000
+                    ],
+                    [
+                        37.57559210000,
+                        55.84812510000
+                    ],
+                    [
+                        37.57631020000,
+                        55.84801690000
+                    ],
+                    [
+                        37.57715020000,
+                        55.84793210000
+                    ],
+                    [
+                        37.57789050000,
+                        55.84787370000
+                    ],
+                    [
+                        37.57862880000,
+                        55.84783780000
+                    ],
+                    [
+                        37.58011280000,
+                        55.84777700000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "note": "осевая по трекам",
+                "railway": "rail",
+                "railway:preferred_direction": "forward",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.73977210000,
+                        55.81572920000
+                    ],
+                    [
+                        37.74141780000,
+                        55.81482130000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "layer": "1",
+                "railway": "rail",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.74286280000,
+                        55.78771800000
+                    ],
+                    [
+                        37.74295330000,
+                        55.78679600000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "oneway": "yes",
+                "railway": "rail",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.53828270000,
+                        55.73637340000
+                    ],
+                    [
+                        37.53724190000,
+                        55.73707630000
+                    ],
+                    [
+                        37.53632610000,
+                        55.73770300000
+                    ],
+                    [
+                        37.53597640000,
+                        55.73798140000
+                    ],
+                    [
+                        37.53568300000,
+                        55.73825240000
+                    ],
+                    [
+                        37.53511650000,
+                        55.73880040000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "layer": "1",
+                "oneway": "yes",
+                "railway": "rail",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.74593490000,
+                        55.75766450000
+                    ],
+                    [
+                        37.74596410000,
+                        55.75681530000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "layer": "1",
+                "operator": "Российские железные дороги",
+                "railway": "rail",
+                "railway:preferred_direction": "forward",
+                "railway:traffic_mode": "passenger",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.66913990000,
+                        55.83897080000
+                    ],
+                    [
+                        37.67033040000,
+                        55.83865470000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "layer": "1",
+                "maxheight": "3.5",
+                "oneway": "yes",
+                "railway": "rail",
+                "source": "Bing",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.62657090000,
+                        55.84604630000
+                    ],
+                    [
+                        37.62698630000,
+                        55.84603280000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "railway": "rail"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.64179930000,
+                        55.69472960000
+                    ],
+                    [
+                        37.64136980000,
+                        55.69452750000
+                    ],
+                    [
+                        37.64057840000,
+                        55.69416220000
+                    ],
+                    [
+                        37.63986520000,
+                        55.69386850000
+                    ],
+                    [
+                        37.63924320000,
+                        55.69362620000
+                    ],
+                    [
+                        37.63834760000,
+                        55.69333990000
+                    ],
+                    [
+                        37.63767990000,
+                        55.69314530000
+                    ],
+                    [
+                        37.63717190000,
+                        55.69301130000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "railway": "rail",
+                "railway:preferred_direction": "forward",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.74330810000,
+                        55.78269270000
+                    ],
+                    [
+                        37.74345470000,
+                        55.78122850000
+                    ],
+                    [
+                        37.74355060000,
+                        55.77989000000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Крымская",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes",
+                "wikidata": "Q23673580",
+                "wikipedia": "ru:Крымская (платформа)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.60577990000,
+                    55.68990990000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "layer": "1",
+                "oneway": "yes",
+                "railway": "rail",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.54049190000,
+                        55.73493140000
+                    ],
+                    [
+                        37.53828270000,
+                        55.73637340000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "layer": "1",
+                "oneway": "yes",
+                "railway": "rail",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.55172320000,
+                        55.72428560000
+                    ],
+                    [
+                        37.55136880000,
+                        55.72453880000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "yes",
+                "frequency": "0",
+                "gauge": "1520",
+                "name": "Малое кольцо Московской железной дороги",
+                "oneway": "yes",
+                "railway": "rail",
+                "ref": "1",
+                "usage": "main"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.48676260000,
+                        55.81549220000
+                    ],
+                    [
+                        37.48669460000,
+                        55.81604950000
+                    ],
+                    [
+                        37.48664970000,
+                        55.81646980000
+                    ],
+                    [
+                        37.48663750000,
+                        55.81685360000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Соколиная Гора",
+                "network": "МЦК",
+                "operator": "ГУП «Московский метрополитен»",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes",
+                "transport": "subway",
+                "wikidata": "Q23673584",
+                "wikipedia": "ru:Соколиная Гора (платформа)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.74500410000,
+                    55.77132430000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "railway": "rail",
+                "railway:preferred_direction": "forward",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.52194350000,
+                        55.76150900000
+                    ],
+                    [
+                        37.52147480000,
+                        55.76201990000
+                    ],
+                    [
+                        37.52123270000,
+                        55.76227100000
+                    ],
+                    [
+                        37.52082860000,
+                        55.76271430000
+                    ],
+                    [
+                        37.52051660000,
+                        55.76304100000
+                    ],
+                    [
+                        37.52013590000,
+                        55.76343960000
+                    ],
+                    [
+                        37.51984970000,
+                        55.76373630000
+                    ],
+                    [
+                        37.51957310000,
+                        55.76402280000
+                    ],
+                    [
+                        37.51873740000,
+                        55.76490430000
+                    ],
+                    [
+                        37.51791680000,
+                        55.76577080000
+                    ],
+                    [
+                        37.51710180000,
+                        55.76662440000
+                    ],
+                    [
+                        37.51632630000,
+                        55.76742840000
+                    ],
+                    [
+                        37.51596310000,
+                        55.76781060000
+                    ],
+                    [
+                        37.51556060000,
+                        55.76823260000
+                    ],
+                    [
+                        37.51524160000,
+                        55.76856910000
+                    ],
+                    [
+                        37.51507410000,
+                        55.76874450000
+                    ],
+                    [
+                        37.51492660000,
+                        55.76889890000
+                    ],
+                    [
+                        37.51479290000,
+                        55.76904130000
+                    ],
+                    [
+                        37.51466500000,
+                        55.76917760000
+                    ],
+                    [
+                        37.51430800000,
+                        55.76955800000
+                    ],
+                    [
+                        37.51400630000,
+                        55.76987420000
+                    ],
+                    [
+                        37.51384660000,
+                        55.77003950000
+                    ],
+                    [
+                        37.51367630000,
+                        55.77021580000
+                    ],
+                    [
+                        37.51334050000,
+                        55.77056120000
+                    ],
+                    [
+                        37.51317280000,
+                        55.77073860000
+                    ],
+                    [
+                        37.51280290000,
+                        55.77112440000
+                    ],
+                    [
+                        37.51252470000,
+                        55.77141670000
+                    ],
+                    [
+                        37.51212270000,
+                        55.77183910000
+                    ],
+                    [
+                        37.51188840000,
+                        55.77208590000
+                    ],
+                    [
+                        37.51170560000,
+                        55.77227950000
+                    ],
+                    [
+                        37.51127540000,
+                        55.77275980000
+                    ],
+                    [
+                        37.51096960000,
+                        55.77305540000
+                    ],
+                    [
+                        37.51053600000,
+                        55.77351290000
+                    ],
+                    [
+                        37.50969110000,
+                        55.77439600000
+                    ],
+                    [
+                        37.50943290000,
+                        55.77466150000
+                    ],
+                    [
+                        37.50872090000,
+                        55.77548390000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "layer": "1",
+                "oneway": "yes",
+                "railway": "rail",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.53261440000,
+                        55.74551840000
+                    ],
+                    [
+                        37.53248000000,
+                        55.74638540000
+                    ],
+                    [
+                        37.53214080000,
+                        55.74756030000
+                    ],
+                    [
+                        37.53181420000,
+                        55.74869190000
+                    ],
+                    [
+                        37.53170670000,
+                        55.74899190000
+                    ],
+                    [
+                        37.53158570000,
+                        55.74928060000
+                    ],
+                    [
+                        37.53142640000,
+                        55.74962320000
+                    ],
+                    [
+                        37.53121840000,
+                        55.74996140000
+                    ],
+                    [
+                        37.53097400000,
+                        55.75031210000
+                    ],
+                    [
+                        37.53047980000,
+                        55.75098340000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Измайлово",
+                "network": "МЦК",
+                "operator": "ГУП «Московский метрополитен»",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes",
+                "transport": "subway",
+                "wikidata": "Q23673568",
+                "wikipedia": "ru:Измайлово (платформа)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.74317710000,
+                    55.78979280000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "layer": "1",
+                "railway": "rail",
+                "railway:preferred_direction": "forward",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.74326100000,
+                        55.78342870000
+                    ],
+                    [
+                        37.74330810000,
+                        55.78269270000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "oneway": "yes",
+                "railway": "rail",
+                "railway:track_ref": "1",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.70096960000,
+                        55.82973660000
+                    ],
+                    [
+                        37.70241680000,
+                        55.82924500000
+                    ],
+                    [
+                        37.70459610000,
+                        55.82852200000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "railway": "rail",
+                "railway:preferred_direction": "forward",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.50484330000,
+                        55.78651530000
+                    ],
+                    [
+                        37.50467410000,
+                        55.78730320000
+                    ],
+                    [
+                        37.50440210000,
+                        55.78849730000
+                    ],
+                    [
+                        37.50435040000,
+                        55.78872440000
+                    ],
+                    [
+                        37.50396510000,
+                        55.79045170000
+                    ],
+                    [
+                        37.50382080000,
+                        55.79108360000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "bridge:name": "Даниловский мост",
+                "bridge:name:de": "Danilow-Brücke",
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "layer": "1",
+                "oneway": "yes",
+                "railway": "rail",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.63088260000,
+                        55.69202190000
+                    ],
+                    [
+                        37.62683380000,
+                        55.69152310000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "oneway": "yes",
+                "railway": "rail",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.57927630000,
+                        55.71293330000
+                    ],
+                    [
+                        37.57887500000,
+                        55.71325020000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "name": "Малое кольцо Московской железной дороги",
+                "oneway": "yes",
+                "railway": "rail",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.52364740000,
+                        55.84114120000
+                    ],
+                    [
+                        37.52384430000,
+                        55.84120250000
+                    ],
+                    [
+                        37.52463800000,
+                        55.84142070000
+                    ],
+                    [
+                        37.53046700000,
+                        55.84270300000
+                    ],
+                    [
+                        37.53886540000,
+                        55.84443930000
+                    ],
+                    [
+                        37.54034210000,
+                        55.84475510000
+                    ],
+                    [
+                        37.54170270000,
+                        55.84504600000
+                    ],
+                    [
+                        37.54261870000,
+                        55.84523460000
+                    ],
+                    [
+                        37.54289370000,
+                        55.84529320000
+                    ],
+                    [
+                        37.54350670000,
+                        55.84542260000
+                    ],
+                    [
+                        37.54395680000,
+                        55.84551460000
+                    ],
+                    [
+                        37.54461010000,
+                        55.84565090000
+                    ],
+                    [
+                        37.54519960000,
+                        55.84577710000
+                    ],
+                    [
+                        37.54566170000,
+                        55.84587320000
+                    ],
+                    [
+                        37.54656240000,
+                        55.84604910000
+                    ],
+                    [
+                        37.54731860000,
+                        55.84621290000
+                    ],
+                    [
+                        37.54894420000,
+                        55.84655400000
+                    ],
+                    [
+                        37.54995070000,
+                        55.84677000000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "railway": "switch"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.48917770000,
+                    55.81046720000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "layer": "-1",
+                "railway": "rail",
+                "railway:preferred_direction": "forward",
+                "tunnel": "covered",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.50042430000,
+                        55.79744570000
+                    ],
+                    [
+                        37.50017060000,
+                        55.79774040000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "railway": "switch"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.53511650000,
+                    55.73880040000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "light_rail": "yes",
+                "name": "ЗИЛ",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.64747980000,
+                    55.69792550000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Панфиловская",
+                "network": "МЦК",
+                "operator": "ГУП «Московский метрополитен»",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes",
+                "wikidata": "Q23540827",
+                "wikipedia": "ru:Панфиловская (платформа)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.49906550000,
+                    55.79902090000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "layer": "1",
+                "railway": "rail",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.58011280000,
+                        55.84777700000
+                    ],
+                    [
+                        37.58079460000,
+                        55.84775070000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "yes",
+                "frequency": "0",
+                "gauge": "1520",
+                "name": "Малое кольцо Московской железной дороги",
+                "oneway": "yes",
+                "railway": "rail",
+                "ref": "1",
+                "usage": "main"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.48663870000,
+                        55.81711840000
+                    ],
+                    [
+                        37.48665780000,
+                        55.81751810000
+                    ],
+                    [
+                        37.48675700000,
+                        55.81800240000
+                    ],
+                    [
+                        37.48692070000,
+                        55.81845600000
+                    ],
+                    [
+                        37.48713250000,
+                        55.81895780000
+                    ],
+                    [
+                        37.48735250000,
+                        55.81935110000
+                    ],
+                    [
+                        37.48767170000,
+                        55.81981370000
+                    ],
+                    [
+                        37.48821880000,
+                        55.82061530000
+                    ],
+                    [
+                        37.48853530000,
+                        55.82106140000
+                    ],
+                    [
+                        37.48872580000,
+                        55.82131750000
+                    ],
+                    [
+                        37.48902080000,
+                        55.82167460000
+                    ],
+                    [
+                        37.48955190000,
+                        55.82219150000
+                    ],
+                    [
+                        37.48986840000,
+                        55.82244910000
+                    ],
+                    [
+                        37.49029760000,
+                        55.82274590000
+                    ],
+                    [
+                        37.49072130000,
+                        55.82302920000
+                    ],
+                    [
+                        37.49101640000,
+                        55.82319500000
+                    ],
+                    [
+                        37.49155610000,
+                        55.82346670000
+                    ],
+                    [
+                        37.49200000000,
+                        55.82368580000
+                    ],
+                    [
+                        37.49255040000,
+                        55.82396560000
+                    ],
+                    [
+                        37.49328820000,
+                        55.82433250000
+                    ],
+                    [
+                        37.49542590000,
+                        55.82533150000
+                    ],
+                    [
+                        37.49647970000,
+                        55.82583630000
+                    ],
+                    [
+                        37.49789420000,
+                        55.82648050000
+                    ],
+                    [
+                        37.49886450000,
+                        55.82692240000
+                    ],
+                    [
+                        37.50234490000,
+                        55.82849260000
+                    ],
+                    [
+                        37.50340220000,
+                        55.82897060000
+                    ],
+                    [
+                        37.50520530000,
+                        55.82977580000
+                    ],
+                    [
+                        37.50588570000,
+                        55.83011400000
+                    ],
+                    [
+                        37.50731080000,
+                        55.83085140000
+                    ],
+                    [
+                        37.50775580000,
+                        55.83110270000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "railway": "switch"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.49028970000,
+                    55.80920880000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "layer": "1",
+                "operator": "Российские железные дороги",
+                "railway": "rail",
+                "railway:preferred_direction": "forward",
+                "railway:traffic_mode": "passenger",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.66290070000,
+                        55.84084830000
+                    ],
+                    [
+                        37.66362230000,
+                        55.84062260000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "railway": "crossing"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.65974850000,
+                    55.84181170000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "embankment": "yes",
+                "frequency": "0",
+                "gauge": "1520",
+                "railway": "rail",
+                "railway:preferred_direction": "forward",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.74295330000,
+                        55.78679600000
+                    ],
+                    [
+                        37.74326100000,
+                        55.78342870000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "layer": "1",
+                "oneway": "yes",
+                "railway": "rail",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.57121330000,
+                        55.71756210000
+                    ],
+                    [
+                        37.57021800000,
+                        55.71788570000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Локомотив",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes",
+                "wikidata": "Q4513189",
+                "wikipedia": "ru:Локомотив (станция)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.74596090000,
+                    55.80413460000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "railway": "rail",
+                "railway:preferred_direction": "forward",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.50872090000,
+                        55.77548390000
+                    ],
+                    [
+                        37.50790700000,
+                        55.77645650000
+                    ],
+                    [
+                        37.50754310000,
+                        55.77694130000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "railway": "rail",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.74355060000,
+                        55.77989000000
+                    ],
+                    [
+                        37.74360330000,
+                        55.77925810000
+                    ],
+                    [
+                        37.74369230000,
+                        55.77847760000
+                    ],
+                    [
+                        37.74388160000,
+                        55.77644480000
+                    ],
+                    [
+                        37.74394200000,
+                        55.77605940000
+                    ],
+                    [
+                        37.74401640000,
+                        55.77565780000
+                    ],
+                    [
+                        37.74432390000,
+                        55.77434760000
+                    ],
+                    [
+                        37.74479830000,
+                        55.77222920000
+                    ],
+                    [
+                        37.74500410000,
+                        55.77132430000
+                    ],
+                    [
+                        37.74518980000,
+                        55.77050770000
+                    ],
+                    [
+                        37.74574070000,
+                        55.76807030000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "embankment": "yes",
+                "frequency": "0",
+                "gauge": "1520",
+                "oneway": "yes",
+                "railway": "rail",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.55480980000,
+                        55.72271610000
+                    ],
+                    [
+                        37.55395930000,
+                        55.72307440000
+                    ],
+                    [
+                        37.55303450000,
+                        55.72351040000
+                    ],
+                    [
+                        37.55232690000,
+                        55.72390170000
+                    ],
+                    [
+                        37.55172320000,
+                        55.72428560000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "railway": "switch"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.74432390000,
+                    55.77434760000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "light_rail": "yes",
+                "name": "Новохохловская",
+                "public_transport": "stop_position",
+                "train": "yes"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.71690210000,
+                    55.72420980000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "oneway": "yes",
+                "railway": "rail",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.61514830000,
+                        55.84632600000
+                    ],
+                    [
+                        37.61724840000,
+                        55.84625630000
+                    ],
+                    [
+                        37.61848030000,
+                        55.84624010000
+                    ],
+                    [
+                        37.61937720000,
+                        55.84623420000
+                    ],
+                    [
+                        37.62090450000,
+                        55.84623300000
+                    ],
+                    [
+                        37.62209620000,
+                        55.84621500000
+                    ],
+                    [
+                        37.62378970000,
+                        55.84614080000
+                    ],
+                    [
+                        37.62657090000,
+                        55.84604630000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "railway": "rail",
+                "railway:preferred_direction": "forward",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.52992070000,
+                        55.75166350000
+                    ],
+                    [
+                        37.52974390000,
+                        55.75196070000
+                    ],
+                    [
+                        37.52947260000,
+                        55.75232130000
+                    ],
+                    [
+                        37.52918520000,
+                        55.75270320000
+                    ],
+                    [
+                        37.52758440000,
+                        55.75476820000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "railway": "switch"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.74605830000,
+                    55.75444110000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "layer": "1",
+                "railway": "rail",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.74432970000,
+                        55.79325260000
+                    ],
+                    [
+                        37.74412180000,
+                        55.79263890000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "distance": "52",
+                "railway": "milestone"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.52384430000,
+                    55.84120250000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "oneway": "yes",
+                "railway": "rail",
+                "source": "Bing",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.62698630000,
+                        55.84603280000
+                    ],
+                    [
+                        37.63144940000,
+                        55.84585910000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "railway": "rail",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.70583710000,
+                        55.72089350000
+                    ],
+                    [
+                        37.70532680000,
+                        55.72074220000
+                    ],
+                    [
+                        37.70340240000,
+                        55.72013000000
+                    ],
+                    [
+                        37.70193360000,
+                        55.71972550000
+                    ],
+                    [
+                        37.69985170000,
+                        55.71915220000
+                    ],
+                    [
+                        37.69967680000,
+                        55.71909640000
+                    ],
+                    [
+                        37.69886540000,
+                        55.71885520000
+                    ],
+                    [
+                        37.69764970000,
+                        55.71851190000
+                    ],
+                    [
+                        37.69408880000,
+                        55.71744360000
+                    ],
+                    [
+                        37.69354730000,
+                        55.71728110000
+                    ],
+                    [
+                        37.69049580000,
+                        55.71637740000
+                    ],
+                    [
+                        37.68744790000,
+                        55.71547570000
+                    ],
+                    [
+                        37.68294330000,
+                        55.71418950000
+                    ],
+                    [
+                        37.68137620000,
+                        55.71374200000
+                    ],
+                    [
+                        37.67951190000,
+                        55.71317760000
+                    ],
+                    [
+                        37.67945020000,
+                        55.71316210000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "electrified": "no",
+                "layer": "1",
+                "maxheight": "4.3",
+                "oneway": "yes",
+                "railway": "rail",
+                "usage": "main"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.62232200000,
+                        55.69085340000
+                    ],
+                    [
+                        37.62141710000,
+                        55.69066590000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "layer": "1",
+                "oneway": "yes",
+                "railway": "rail",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.71520400000,
+                        55.72371900000
+                    ],
+                    [
+                        37.71437090000,
+                        55.72347840000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "construction": "rail",
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "layer": "1",
+                "oneway": "yes",
+                "passenger_lines": "3",
+                "railway": "rail",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.72905270000,
+                        55.73375540000
+                    ],
+                    [
+                        37.72871640000,
+                        55.73334770000
+                    ],
+                    [
+                        37.72852410000,
+                        55.73307060000
+                    ],
+                    [
+                        37.72800120000,
+                        55.73221040000
+                    ],
+                    [
+                        37.72734630000,
+                        55.73113320000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "railway": "switch"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.50396510000,
+                    55.79045170000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "layer": "-3",
+                "railway": "rail",
+                "railway:preferred_direction": "forward",
+                "tunnel": "yes",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.58759570000,
+                        55.70613260000
+                    ],
+                    [
+                        37.58729640000,
+                        55.70638430000
+                    ],
+                    [
+                        37.58708930000,
+                        55.70654110000
+                    ],
+                    [
+                        37.58689780000,
+                        55.70667550000
+                    ],
+                    [
+                        37.58669320000,
+                        55.70680940000
+                    ],
+                    [
+                        37.58642440000,
+                        55.70698100000
+                    ],
+                    [
+                        37.58361840000,
+                        55.70875870000
+                    ],
+                    [
+                        37.58212930000,
+                        55.70980250000
+                    ],
+                    [
+                        37.58175980000,
+                        55.71008900000
+                    ],
+                    [
+                        37.58137100000,
+                        55.71044290000
+                    ],
+                    [
+                        37.58106950000,
+                        55.71077020000
+                    ],
+                    [
+                        37.58001750000,
+                        55.71216540000
+                    ],
+                    [
+                        37.57981650000,
+                        55.71240620000
+                    ],
+                    [
+                        37.57959760000,
+                        55.71263720000
+                    ],
+                    [
+                        37.57927630000,
+                        55.71293330000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Пресня",
+                "name:de": "Presnja",
+                "railway": "yard",
+                "wikidata": "Q4377446",
+                "wikipedia": "ru:Пресня (станция)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.51710180000,
+                    55.76662440000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "railway": "switch"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.54620490000,
+                    55.72975200000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "layer": "1",
+                "railway": "rail",
+                "railway:preferred_direction": "forward",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.50754310000,
+                        55.77694130000
+                    ],
+                    [
+                        37.50740520000,
+                        55.77714630000
+                    ],
+                    [
+                        37.50721880000,
+                        55.77745090000
+                    ],
+                    [
+                        37.50702470000,
+                        55.77780850000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "oneway": "yes",
+                "railway": "rail",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.53511650000,
+                        55.73880040000
+                    ],
+                    [
+                        37.53460900000,
+                        55.73931110000
+                    ],
+                    [
+                        37.53442300000,
+                        55.73953010000
+                    ],
+                    [
+                        37.53412780000,
+                        55.73993670000
+                    ],
+                    [
+                        37.53400100000,
+                        55.74014820000
+                    ],
+                    [
+                        37.53386690000,
+                        55.74038450000
+                    ],
+                    [
+                        37.53366440000,
+                        55.74085880000
+                    ],
+                    [
+                        37.53355240000,
+                        55.74121260000
+                    ],
+                    [
+                        37.53326600000,
+                        55.74252210000
+                    ],
+                    [
+                        37.53310230000,
+                        55.74330600000
+                    ],
+                    [
+                        37.53307940000,
+                        55.74342730000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gauge": "1520",
+                "oneway": "yes",
+                "railway": "rail",
+                "service": "spur"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.73615930000,
+                        55.74566800000
+                    ],
+                    [
+                        37.73595930000,
+                        55.74544840000
+                    ],
+                    [
+                        37.73576640000,
+                        55.74523350000
+                    ],
+                    [
+                        37.73554960000,
+                        55.74497710000
+                    ],
+                    [
+                        37.73537030000,
+                        55.74477410000
+                    ],
+                    [
+                        37.73525530000,
+                        55.74464460000
+                    ],
+                    [
+                        37.73510700000,
+                        55.74446990000
+                    ],
+                    [
+                        37.73495700000,
+                        55.74429310000
+                    ],
+                    [
+                        37.73478190000,
+                        55.74403120000
+                    ],
+                    [
+                        37.73455520000,
+                        55.74369750000
+                    ],
+                    [
+                        37.73317100000,
+                        55.74141590000
+                    ],
+                    [
+                        37.73294820000,
+                        55.74105760000
+                    ],
+                    [
+                        37.73235560000,
+                        55.74006590000
+                    ],
+                    [
+                        37.73178670000,
+                        55.73911400000
+                    ],
+                    [
+                        37.73159980000,
+                        55.73875790000
+                    ],
+                    [
+                        37.73147650000,
+                        55.73842880000
+                    ],
+                    [
+                        37.73138100000,
+                        55.73808840000
+                    ],
+                    [
+                        37.73131340000,
+                        55.73777490000
+                    ],
+                    [
+                        37.73121680000,
+                        55.73744490000
+                    ],
+                    [
+                        37.73108820000,
+                        55.73710180000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "railway": "switch"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.49200000000,
+                    55.82368580000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "layer": "1",
+                "railway": "rail",
+                "railway:preferred_direction": "forward",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.52758440000,
+                        55.75476820000
+                    ],
+                    [
+                        37.52745050000,
+                        55.75494570000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Дубровка",
+                "network": "МЦК",
+                "operator": "ГУП «Московский метрополитен»",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes",
+                "wikidata": "Q23673566",
+                "wikipedia": "ru:Дубровка (платформа)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.67779740000,
+                    55.71269800000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Коптево",
+                "network": "МЦК",
+                "operator": "ГУП «Московский метрополитен»",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes",
+                "transport": "subway",
+                "wikidata": "Q21640493",
+                "wikipedia": "ru:Коптево (платформа)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.52017540000,
+                    55.83957540000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "railway": "rail"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.63599290000,
+                        55.69274330000
+                    ],
+                    [
+                        37.63553210000,
+                        55.69265250000
+                    ],
+                    [
+                        37.63508430000,
+                        55.69256900000
+                    ],
+                    [
+                        37.63477990000,
+                        55.69251390000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "layer": "1",
+                "oneway": "yes",
+                "railway": "rail",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.54901050000,
+                        55.72681770000
+                    ],
+                    [
+                        37.54675720000,
+                        55.72917570000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Хорошёво",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes",
+                "transport": "subway",
+                "wikidata": "Q23673563",
+                "wikipedia": "ru:Хорошёво (платформа, МКЖД)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.50740520000,
+                    55.77714630000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "railway": "rail",
+                "railway:preferred_direction": "forward",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.50382080000,
+                        55.79108360000
+                    ],
+                    [
+                        37.50337800000,
+                        55.79303370000
+                    ],
+                    [
+                        37.50324930000,
+                        55.79345440000
+                    ],
+                    [
+                        37.50309450000,
+                        55.79382640000
+                    ],
+                    [
+                        37.50282550000,
+                        55.79439830000
+                    ],
+                    [
+                        37.50254630000,
+                        55.79486600000
+                    ],
+                    [
+                        37.50212300000,
+                        55.79544850000
+                    ],
+                    [
+                        37.50147900000,
+                        55.79623030000
+                    ],
+                    [
+                        37.50077520000,
+                        55.79703800000
+                    ],
+                    [
+                        37.50042430000,
+                        55.79744570000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "railway": "rail"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.63674520000,
+                        55.69290670000
+                    ],
+                    [
+                        37.63599290000,
+                        55.69274330000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "railway": "rail",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.64179930000,
+                        55.69472960000
+                    ],
+                    [
+                        37.64617290000,
+                        55.69722250000
+                    ],
+                    [
+                        37.64747980000,
+                        55.69792550000
+                    ],
+                    [
+                        37.65638470000,
+                        55.70271480000
+                    ],
+                    [
+                        37.65880850000,
+                        55.70401830000
+                    ],
+                    [
+                        37.66081720000,
+                        55.70512280000
+                    ],
+                    [
+                        37.66305910000,
+                        55.70635930000
+                    ],
+                    [
+                        37.66470420000,
+                        55.70726650000
+                    ],
+                    [
+                        37.66985750000,
+                        55.71009780000
+                    ],
+                    [
+                        37.67025560000,
+                        55.71028940000
+                    ],
+                    [
+                        37.67067590000,
+                        55.71046440000
+                    ],
+                    [
+                        37.67127670000,
+                        55.71068500000
+                    ],
+                    [
+                        37.67261650000,
+                        55.71113060000
+                    ],
+                    [
+                        37.67401470000,
+                        55.71159510000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "layer": "1",
+                "oneway": "yes",
+                "railway": "rail",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.61429370000,
+                        55.84635400000
+                    ],
+                    [
+                        37.61514830000,
+                        55.84632600000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "railway": "rail",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.58350040000,
+                        55.84765200000
+                    ],
+                    [
+                        37.58546350000,
+                        55.84757860000
+                    ],
+                    [
+                        37.59164280000,
+                        55.84733410000
+                    ],
+                    [
+                        37.59243660000,
+                        55.84730400000
+                    ],
+                    [
+                        37.59282260000,
+                        55.84728930000
+                    ],
+                    [
+                        37.59473740000,
+                        55.84723640000
+                    ],
+                    [
+                        37.59669090000,
+                        55.84714920000
+                    ],
+                    [
+                        37.59885800000,
+                        55.84706890000
+                    ],
+                    [
+                        37.60094410000,
+                        55.84698200000
+                    ],
+                    [
+                        37.60446610000,
+                        55.84685760000
+                    ],
+                    [
+                        37.60530560000,
+                        55.84683200000
+                    ],
+                    [
+                        37.60657670000,
+                        55.84678770000
+                    ],
+                    [
+                        37.60793120000,
+                        55.84672740000
+                    ],
+                    [
+                        37.60918980000,
+                        55.84664920000
+                    ],
+                    [
+                        37.61002580000,
+                        55.84660380000
+                    ],
+                    [
+                        37.61131010000,
+                        55.84651690000
+                    ],
+                    [
+                        37.61221790000,
+                        55.84646320000
+                    ],
+                    [
+                        37.61307590000,
+                        55.84641890000
+                    ],
+                    [
+                        37.61429370000,
+                        55.84635400000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "note": "осевая по трекам",
+                "railway": "rail",
+                "railway:preferred_direction": "forward",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.74141780000,
+                        55.81482130000
+                    ],
+                    [
+                        37.74195580000,
+                        55.81451830000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "railway": "rail",
+                "railway:preferred_direction": "forward",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.50017060000,
+                        55.79774040000
+                    ],
+                    [
+                        37.49991430000,
+                        55.79803770000
+                    ],
+                    [
+                        37.49906550000,
+                        55.79902090000
+                    ],
+                    [
+                        37.49879180000,
+                        55.79933800000
+                    ],
+                    [
+                        37.49609440000,
+                        55.80246970000
+                    ],
+                    [
+                        37.49341730000,
+                        55.80556550000
+                    ],
+                    [
+                        37.49193300000,
+                        55.80727160000
+                    ],
+                    [
+                        37.49091990000,
+                        55.80848520000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "layer": "1",
+                "oneway": "yes",
+                "railway": "rail",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.57887500000,
+                        55.71325020000
+                    ],
+                    [
+                        37.57591420000,
+                        55.71537900000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "local_ref": "1",
+                "name": "Белокаменная",
+                "network": "МЦК",
+                "operator": "ГУП «Московский метрополитен»",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes",
+                "transport": "subway"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.70241680000,
+                    55.82924500000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "layer": "1",
+                "railway": "rail",
+                "railway:preferred_direction": "forward",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.52685990000,
+                        55.75570670000
+                    ],
+                    [
+                        37.52647930000,
+                        55.75622240000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "name": "Малое кольцо Московской железной дороги",
+                "railway": "rail",
+                "railway:preferred_direction": "forward",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.48929970000,
+                        55.81032760000
+                    ],
+                    [
+                        37.48917770000,
+                        55.81046720000
+                    ],
+                    [
+                        37.48850770000,
+                        55.81123360000
+                    ],
+                    [
+                        37.48814940000,
+                        55.81166810000
+                    ],
+                    [
+                        37.48786950000,
+                        55.81205630000
+                    ],
+                    [
+                        37.48765150000,
+                        55.81239020000
+                    ],
+                    [
+                        37.48749080000,
+                        55.81264630000
+                    ],
+                    [
+                        37.48735900000,
+                        55.81290620000
+                    ],
+                    [
+                        37.48717760000,
+                        55.81329190000
+                    ],
+                    [
+                        37.48703950000,
+                        55.81370120000
+                    ],
+                    [
+                        37.48693970000,
+                        55.81415140000
+                    ],
+                    [
+                        37.48687860000,
+                        55.81452290000
+                    ],
+                    [
+                        37.48679870000,
+                        55.81513670000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Автозаводская",
+                "network": "МЦК",
+                "operator": "ГУП «Московский метрополитен»",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes",
+                "transport": "subway",
+                "wikidata": "Q23673559",
+                "wikipedia": "ru:Автозаводская (платформа)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.66305910000,
+                    55.70635930000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "layer": "1",
+                "railway": "rail",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.56626140000,
+                        55.84955120000
+                    ],
+                    [
+                        37.56751380000,
+                        55.84942320000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "oneway": "yes",
+                "railway": "rail",
+                "source": "Bing",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.63266250000,
+                        55.84581130000
+                    ],
+                    [
+                        37.63526140000,
+                        55.84571210000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "railway": "rail"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.63477990000,
+                        55.69251390000
+                    ],
+                    [
+                        37.63465460000,
+                        55.69249380000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "layer": "2",
+                "oneway": "yes",
+                "railway": "rail",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.55570320000,
+                        55.72237430000
+                    ],
+                    [
+                        37.55480980000,
+                        55.72271610000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "oneway": "yes",
+                "railway": "rail",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.63465460000,
+                        55.69249380000
+                    ],
+                    [
+                        37.63375880000,
+                        55.69237310000
+                    ],
+                    [
+                        37.63188380000,
+                        55.69214660000
+                    ],
+                    [
+                        37.63088260000,
+                        55.69202190000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "operator": "Российские железные дороги",
+                "railway": "rail",
+                "railway:preferred_direction": "forward",
+                "railway:traffic_mode": "passenger",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.67033040000,
+                        55.83865470000
+                    ],
+                    [
+                        37.67056280000,
+                        55.83859150000
+                    ],
+                    [
+                        37.68256430000,
+                        55.83557580000
+                    ],
+                    [
+                        37.68504460000,
+                        55.83490670000
+                    ],
+                    [
+                        37.68698200000,
+                        55.83432580000
+                    ],
+                    [
+                        37.68722640000,
+                        55.83424420000
+                    ],
+                    [
+                        37.68889970000,
+                        55.83375530000
+                    ],
+                    [
+                        37.69178000000,
+                        55.83280950000
+                    ],
+                    [
+                        37.69255100000,
+                        55.83253870000
+                    ],
+                    [
+                        37.69463100000,
+                        55.83185640000
+                    ],
+                    [
+                        37.69646510000,
+                        55.83123370000
+                    ],
+                    [
+                        37.69831800000,
+                        55.83065010000
+                    ],
+                    [
+                        37.69952030000,
+                        55.83024570000
+                    ],
+                    [
+                        37.70038340000,
+                        55.82994390000
+                    ],
+                    [
+                        37.70067810000,
+                        55.82983970000
+                    ],
+                    [
+                        37.70096960000,
+                        55.82973660000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Серебряный Бор",
+                "name:de": "Serebrjany Bor",
+                "railway": "yard",
+                "wikidata": "Q4417429",
+                "wikipedia": "ru:Серебряный Бор (станция)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.49609440000,
+                    55.80246970000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "layer": "1",
+                "name": "Дорогомиловский мост",
+                "name:de": "Dorogomilowoer Brücke",
+                "oneway": "yes",
+                "railway": "rail",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.53307940000,
+                        55.74342730000
+                    ],
+                    [
+                        37.53261440000,
+                        55.74551840000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Окружная",
+                "network": "МЦК",
+                "operator": "ГУП «Московский метрополитен»",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes",
+                "transport": "subway",
+                "wikidata": "Q25713183",
+                "wikipedia": "ru:Окружная (платформа, МКЖД)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.57112330000,
+                    55.84891060000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "railway": "switch"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.52947260000,
+                    55.75232130000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "oneway": "yes",
+                "railway": "rail",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.56751380000,
+                        55.84942320000
+                    ],
+                    [
+                        37.56831780000,
+                        55.84932940000
+                    ],
+                    [
+                        37.56877730000,
+                        55.84927530000
+                    ],
+                    [
+                        37.56922250000,
+                        55.84921650000
+                    ],
+                    [
+                        37.56976860000,
+                        55.84913890000
+                    ],
+                    [
+                        37.57039420000,
+                        55.84903620000
+                    ],
+                    [
+                        37.57112330000,
+                        55.84891060000
+                    ],
+                    [
+                        37.57132790000,
+                        55.84887530000
+                    ],
+                    [
+                        37.57229650000,
+                        55.84870880000
+                    ],
+                    [
+                        37.57319530000,
+                        55.84855540000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "oneway": "yes",
+                "railway": "rail",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.60381410000,
+                        55.69055910000
+                    ],
+                    [
+                        37.60340650000,
+                        55.69071020000
+                    ],
+                    [
+                        37.60299060000,
+                        55.69085770000
+                    ],
+                    [
+                        37.60253190000,
+                        55.69108140000
+                    ],
+                    [
+                        37.60199550000,
+                        55.69136870000
+                    ],
+                    [
+                        37.60177020000,
+                        55.69148660000
+                    ],
+                    [
+                        37.60129810000,
+                        55.69179800000
+                    ],
+                    [
+                        37.60070260000,
+                        55.69223640000
+                    ],
+                    [
+                        37.60016890000,
+                        55.69265070000
+                    ],
+                    [
+                        37.59959220000,
+                        55.69314810000
+                    ],
+                    [
+                        37.59934280000,
+                        55.69335820000
+                    ],
+                    [
+                        37.59840400000,
+                        55.69413980000
+                    ],
+                    [
+                        37.59807410000,
+                        55.69442400000
+                    ],
+                    [
+                        37.59761230000,
+                        55.69481630000
+                    ],
+                    [
+                        37.59755100000,
+                        55.69486840000
+                    ],
+                    [
+                        37.59711120000,
+                        55.69523420000
+                    ],
+                    [
+                        37.59676250000,
+                        55.69557280000
+                    ],
+                    [
+                        37.59624480000,
+                        55.69610340000
+                    ],
+                    [
+                        37.59571910000,
+                        55.69670960000
+                    ],
+                    [
+                        37.59492780000,
+                        55.69761660000
+                    ],
+                    [
+                        37.59425190000,
+                        55.69842220000
+                    ],
+                    [
+                        37.59375300000,
+                        55.69899660000
+                    ],
+                    [
+                        37.59293760000,
+                        55.69993680000
+                    ],
+                    [
+                        37.59200420000,
+                        55.70103410000
+                    ],
+                    [
+                        37.59056550000,
+                        55.70274090000
+                    ],
+                    [
+                        37.58990570000,
+                        55.70352360000
+                    ],
+                    [
+                        37.58940800000,
+                        55.70409910000
+                    ],
+                    [
+                        37.58853030000,
+                        55.70512230000
+                    ],
+                    [
+                        37.58794400000,
+                        55.70579070000
+                    ],
+                    [
+                        37.58776930000,
+                        55.70597000000
+                    ],
+                    [
+                        37.58759570000,
+                        55.70613260000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "oneway": "yes",
+                "railway": "rail",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.71437090000,
+                        55.72347840000
+                    ],
+                    [
+                        37.71265800000,
+                        55.72293490000
+                    ],
+                    [
+                        37.71131730000,
+                        55.72247860000
+                    ],
+                    [
+                        37.70866710000,
+                        55.72172490000
+                    ],
+                    [
+                        37.70583710000,
+                        55.72089350000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "railway": "rail",
+                "railway:preferred_direction": "forward",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.50702470000,
+                        55.77780850000
+                    ],
+                    [
+                        37.50676270000,
+                        55.77837330000
+                    ],
+                    [
+                        37.50667890000,
+                        55.77862520000
+                    ],
+                    [
+                        37.50659900000,
+                        55.77889610000
+                    ],
+                    [
+                        37.50628570000,
+                        55.78032210000
+                    ],
+                    [
+                        37.50576100000,
+                        55.78266990000
+                    ],
+                    [
+                        37.50523370000,
+                        55.78485420000
+                    ],
+                    [
+                        37.50488060000,
+                        55.78634210000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Лихоборы",
+                "network": "МЦК",
+                "operator": "ГУП «Московский метрополитен»",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes",
+                "transport": "subway",
+                "wikidata": "Q25688516",
+                "wikipedia": "ru:Лихоборы (платформа)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.55148480000,
+                    55.84714820000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "oneway": "yes",
+                "railway": "rail",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.54251270000,
+                        55.73345360000
+                    ],
+                    [
+                        37.54223200000,
+                        55.73366140000
+                    ],
+                    [
+                        37.54141800000,
+                        55.73427680000
+                    ],
+                    [
+                        37.54049190000,
+                        55.73493140000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "railway": "switch"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.49789420000,
+                    55.82648050000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "crossing": "unmarked",
+                "crossing:barrier": "no",
+                "railway": "crossing"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.69408880000,
+                    55.71744360000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gauge": "1520",
+                "layer": "-1",
+                "oneway": "yes",
+                "railway": "rail",
+                "service": "spur"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.73675890000,
+                        55.74631940000
+                    ],
+                    [
+                        37.73636110000,
+                        55.74588950000
+                    ],
+                    [
+                        37.73615930000,
+                        55.74566800000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "layer": "1",
+                "oneway": "yes",
+                "railway": "rail",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.57591420000,
+                        55.71537900000
+                    ],
+                    [
+                        37.57557440000,
+                        55.71558760000
+                    ],
+                    [
+                        37.57512540000,
+                        55.71583720000
+                    ],
+                    [
+                        37.57380590000,
+                        55.71650140000
+                    ],
+                    [
+                        37.57335370000,
+                        55.71672240000
+                    ],
+                    [
+                        37.57260620000,
+                        55.71704570000
+                    ],
+                    [
+                        37.57215200000,
+                        55.71723300000
+                    ],
+                    [
+                        37.57164650000,
+                        55.71741540000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "esr:user": "198813",
+                "express:user": "2000681",
+                "name": "Лихоборы",
+                "name:de": "Lichobory",
+                "railway": "yard",
+                "wikidata": "Q4264205",
+                "wikipedia": "ru:Лихоборы (станция)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.53046700000,
+                    55.84270300000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Балтийская",
+                "network": "МЦК",
+                "operator": "ГУП «Московский метрополитен»",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes",
+                "transport": "subway",
+                "wikidata": "Q21637184",
+                "wikipedia": "ru:Балтийская (платформа)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.49647970000,
+                    55.82583630000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "railway": "rail",
+                "railway:preferred_direction": "forward",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.49091990000,
+                        55.80848520000
+                    ],
+                    [
+                        37.49042500000,
+                        55.80905190000
+                    ],
+                    [
+                        37.49028970000,
+                        55.80920880000
+                    ],
+                    [
+                        37.49018070000,
+                        55.80933520000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ростокино",
+                "network": "МЦК",
+                "operator": "ГУП «Московский метрополитен»",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes",
+                "transport": "subway",
+                "wikidata": "Q23673570",
+                "wikipedia": "ru:Ростокино (станция МЦК)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.66683250000,
+                    55.83964190000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "railway": "rail",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.74574070000,
+                        55.76807030000
+                    ],
+                    [
+                        37.74586380000,
+                        55.76716170000
+                    ],
+                    [
+                        37.74591220000,
+                        55.76627300000
+                    ],
+                    [
+                        37.74593890000,
+                        55.76420410000
+                    ],
+                    [
+                        37.74597390000,
+                        55.76249590000
+                    ],
+                    [
+                        37.74599520000,
+                        55.76145760000
+                    ],
+                    [
+                        37.74592190000,
+                        55.76097500000
+                    ],
+                    [
+                        37.74593630000,
+                        55.75890200000
+                    ],
+                    [
+                        37.74593490000,
+                        55.75766450000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "embankment": "yes",
+                "frequency": "0",
+                "gauge": "1520",
+                "oneway": "yes",
+                "railway": "rail",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.55136880000,
+                        55.72453880000
+                    ],
+                    [
+                        37.55115910000,
+                        55.72469990000
+                    ],
+                    [
+                        37.55058050000,
+                        55.72520620000
+                    ],
+                    [
+                        37.55013100000,
+                        55.72565070000
+                    ],
+                    [
+                        37.54920030000,
+                        55.72661990000
+                    ],
+                    [
+                        37.54901050000,
+                        55.72681770000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "note": "По трекам",
+                "railway": "rail",
+                "railway:preferred_direction": "forward",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.71226330000,
+                        55.82590970000
+                    ],
+                    [
+                        37.71522990000,
+                        55.82490190000
+                    ],
+                    [
+                        37.72197140000,
+                        55.82260780000
+                    ],
+                    [
+                        37.72512410000,
+                        55.82153580000
+                    ],
+                    [
+                        37.72596460000,
+                        55.82125480000
+                    ],
+                    [
+                        37.72706560000,
+                        55.82088680000
+                    ],
+                    [
+                        37.73096620000,
+                        55.81956300000
+                    ],
+                    [
+                        37.73314180000,
+                        55.81881440000
+                    ],
+                    [
+                        37.73473730000,
+                        55.81820770000
+                    ],
+                    [
+                        37.73598440000,
+                        55.81765200000
+                    ],
+                    [
+                        37.73658750000,
+                        55.81737180000
+                    ],
+                    [
+                        37.73731010000,
+                        55.81701890000
+                    ],
+                    [
+                        37.73847020000,
+                        55.81640790000
+                    ],
+                    [
+                        37.73977210000,
+                        55.81572920000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Верхние Котлы",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes",
+                "wikidata": "Q23673587",
+                "wikipedia": "ru:Верхние Котлы (платформа)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.61884820000,
+                    55.69015880000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ботанический сад",
+                "name:de": "Botanischer Garten",
+                "name:en": "Botanical Garden",
+                "network": "МЦК",
+                "operator": "ГУП «Московский метрополитен»",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes",
+                "transport": "subway",
+                "wikidata": "Q23673561",
+                "wikipedia": "ru:Ботанический сад (станция МЦК)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.63920120000,
+                    55.84555190000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "oneway": "yes",
+                "railway": "rail",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.74596410000,
+                        55.75681530000
+                    ],
+                    [
+                        37.74596570000,
+                        55.75612700000
+                    ],
+                    [
+                        37.74598010000,
+                        55.75593980000
+                    ],
+                    [
+                        37.74603000000,
+                        55.75529230000
+                    ],
+                    [
+                        37.74605830000,
+                        55.75444110000
+                    ],
+                    [
+                        37.74608810000,
+                        55.75403670000
+                    ],
+                    [
+                        37.74601130000,
+                        55.75345700000
+                    ],
+                    [
+                        37.74588260000,
+                        55.75291810000
+                    ],
+                    [
+                        37.74567870000,
+                        55.75242300000
+                    ],
+                    [
+                        37.74553120000,
+                        55.75210300000
+                    ],
+                    [
+                        37.74527270000,
+                        55.75171620000
+                    ],
+                    [
+                        37.74499210000,
+                        55.75137840000
+                    ],
+                    [
+                        37.74453230000,
+                        55.75091560000
+                    ],
+                    [
+                        37.74406650000,
+                        55.75052030000
+                    ],
+                    [
+                        37.74376800000,
+                        55.75027650000
+                    ],
+                    [
+                        37.74353120000,
+                        55.75011770000
+                    ],
+                    [
+                        37.74292640000,
+                        55.74978320000
+                    ],
+                    [
+                        37.74099000000,
+                        55.74880740000
+                    ],
+                    [
+                        37.74035040000,
+                        55.74849550000
+                    ],
+                    [
+                        37.74014720000,
+                        55.74839150000
+                    ],
+                    [
+                        37.73898560000,
+                        55.74779670000
+                    ],
+                    [
+                        37.73801350000,
+                        55.74728450000
+                    ],
+                    [
+                        37.73768510000,
+                        55.74707000000
+                    ],
+                    [
+                        37.73739450000,
+                        55.74685120000
+                    ],
+                    [
+                        37.73675890000,
+                        55.74631940000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "railway": "rail",
+                "railway:preferred_direction": "forward",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.52647930000,
+                        55.75622240000
+                    ],
+                    [
+                        37.52568590000,
+                        55.75730880000
+                    ],
+                    [
+                        37.52513440000,
+                        55.75806400000
+                    ],
+                    [
+                        37.52464060000,
+                        55.75864940000
+                    ],
+                    [
+                        37.52435970000,
+                        55.75895480000
+                    ],
+                    [
+                        37.52412580000,
+                        55.75921720000
+                    ],
+                    [
+                        37.52380880000,
+                        55.75952370000
+                    ],
+                    [
+                        37.52364680000,
+                        55.75969020000
+                    ],
+                    [
+                        37.52354010000,
+                        55.75980040000
+                    ],
+                    [
+                        37.52345560000,
+                        55.75989400000
+                    ],
+                    [
+                        37.52327580000,
+                        55.76008440000
+                    ],
+                    [
+                        37.52314910000,
+                        55.76021370000
+                    ],
+                    [
+                        37.52289400000,
+                        55.76050040000
+                    ],
+                    [
+                        37.52275790000,
+                        55.76064170000
+                    ],
+                    [
+                        37.52253140000,
+                        55.76088570000
+                    ],
+                    [
+                        37.52231710000,
+                        55.76111670000
+                    ],
+                    [
+                        37.52194350000,
+                        55.76150900000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Владыкино",
+                "network": "МЦК",
+                "operator": "ГУП «Московский метрополитен»",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes",
+                "transport": "subway",
+                "wikidata": "Q26857931",
+                "wikipedia": "ru:Владыкино (платформа)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.59243660000,
+                    55.84730400000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1520",
+                "oneway": "yes",
+                "railway": "rail",
+                "usage": "main",
+                "voltage": "3000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.70459610000,
+                        55.82852200000
+                    ],
+                    [
+                        37.70639320000,
+                        55.82790380000
+                    ],
+                    [
+                        37.70818530000,
+                        55.82727720000
+                    ],
+                    [
+                        37.70926030000,
+                        55.82691260000
+                    ],
+                    [
+                        37.71164250000,
+                        55.82612040000
+                    ]
+                ]
+            }
+        }
+    ]
+}

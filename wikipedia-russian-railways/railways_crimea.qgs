@@ -1,32 +1,32 @@
 <!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
-<qgis projectname="" version="2.18.26-Las Palmas">
+<qgis projectname="" version="2.18.28-Las Palmas">
   <title></title>
   <autotransaction active="0"/>
   <evaluateDefaultValues active="0"/>
   <layer-tree-group expanded="1" checked="Qt::PartiallyChecked" name="">
     <customproperties/>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="railways_in_russia_mainlines20190317001627842" source="/media/trolleway/elvideo/tmp/rurail/geodata/uni_wmap/railways in russia mainlines.gpkg|layername=railways in russia mainlines" name="railways in russia mainlines">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="railways_in_russia_mainlines20190317001627842" source="G:/tmp/geodata/wikipedia-russian-railways/railways in russia mainlines.gpkg|layername=railways in russia mainlines" name="railways in russia mainlines">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="railways_in_russia_branches20190317001745261" source="/media/trolleway/elvideo/tmp/rurail/geodata/uni_wmap/railways in russia branches.gpkg|layername=railways in russia branches" name="railways in russia branches">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="railways_in_russia_branches20190317001745261" source="G:/tmp/geodata/wikipedia-russian-railways/railways in russia branches.gpkg|layername=railways in russia branches" name="railways in russia branches">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Checked" id="Clipped20190317135619349" source="/media/trolleway/elvideo/tmp/rurail/geodata/uni_wmap/rzd_regions_cropped_by_boundary.gpkg" name="Clipped">
+    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Checked" id="Clipped20190317135619349" source="G:/tmp/geodata/wikipedia-russian-railways/rzd_regions_cropped_by_boundary.gpkg" name="Clipped">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="memory" checked="Qt::Unchecked" id="memory_20190317002413309" source="MultiPolygon?uuid=145a993d-76f7-4a0e-a646-0e8f1fa771ef&amp;crs=EPSG:4326&amp;field=name:string" name="boundary_4326">
+    <layer-tree-layer expanded="1" providerKey="memory" checked="Qt::Unchecked" id="memory_20190317002413309" source="memory?geometry=MultiPolygon&amp;crs=EPSG:4326&amp;field=name:string(255,0)" name="boundary_4326">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="rzd_railways20190317002023418" source="/media/trolleway/elvideo/tmp/rurail/geodata/uni_wmap/rzd railways.geojson" name="rzd railways">
+    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="rzd_railways20190317002023418" source="G:/tmp/geodata/wikipedia-russian-railways/rzd railways.geojson" name="rzd railways">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="Boundary_of_Russia_with_Crimea20190317000758473" source="http://datahub.nextgis.com/api/resource/57/geojson" name="Boundary of Russia with Crimea">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="water_polygons_z2_epsg10202520190317000117258" source="/media/trolleway/elvideo/tmp/rurail/geodata/uni_wmap/water_polygons_z2_epsg102025.gpkg" name="water_polygons_z2_epsg102025">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="water_polygons_z2_epsg10202520190317000117258" source="G:/tmp/geodata/wikipedia-russian-railways/water_polygons_z2_epsg102025.gpkg" name="water_polygons_z2_epsg102025">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="land_polygons_z220190317000139644" source="/media/trolleway/elvideo/tmp/rurail/geodata/uni_wmap/land_polygons_z2.gpkg" name="land_polygons_z2">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="land_polygons_z220190317000139644" source="G:/tmp/geodata/wikipedia-russian-railways/land_polygons_z2.gpkg" name="land_polygons_z2">
       <customproperties/>
     </layer-tree-layer>
   </layer-tree-group>
@@ -142,9 +142,57 @@
         </layer>
       </symbol>
       <ComposerMap followPreset="false" mapRotation="0" keepLayerSet="false" followPresetName="" id="0" previewMode="Cache" drawCanvasItems="true">
-        <Extent ymin="881159.90565322060137987" xmin="-4334041.27221521269530058" ymax="6267130.72495737113058567" xmax="3283260.31508637266233563"/>
+        <Extent ymin="881159.90565322060137987" xmin="-4334041.27221521269530058" ymax="6267130.72495737206190825" xmax="3283260.31508637266233563"/>
         <LayerSet/>
         <Grid/>
+        <ComposerMapGrid rightAnnotationDirection="0" gridFramePenColor="0,0,0,255" show="0" bottomAnnotationPosition="1" annotationPrecision="3" showAnnotation="0" topFrameDivisions="0" uuid="{15785fc1-d8d2-488f-afea-0f8cb54d7b55}" leftAnnotationDirection="0" topAnnotationPosition="1" rightAnnotationDisplay="0" offsetX="0" offsetY="0" rightFrameDivisions="0" gridStyle="0" annotationFontColor="0,0,0,255" intervalX="0" gridFrameSideFlags="15" intervalY="0" bottomAnnotationDirection="0" leftAnnotationDisplay="0" leftFrameDivisions="0" frameFillColor1="255,255,255,255" annotationExpression="" frameFillColor2="0,0,0,255" crossLength="3" gridFramePenThickness="0.5" bottomAnnotationDisplay="0" unit="0" topAnnotationDisplay="0" leftAnnotationPosition="1" blendMode="0" gridFrameStyle="0" rightAnnotationPosition="1" gridFrameWidth="2" name="Сетка 1" annotationFormat="0" bottomFrameDivisions="0" topAnnotationDirection="0" frameAnnotationDistance="1">
+          <lineStyle>
+            <symbol alpha="1" clip_to_extent="1" type="line" name="">
+              <layer pass="0" class="SimpleLine" locked="0">
+                <prop k="capstyle" v="square"/>
+                <prop k="customdash" v="5;2"/>
+                <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="customdash_unit" v="MM"/>
+                <prop k="draw_inside_polygon" v="0"/>
+                <prop k="joinstyle" v="bevel"/>
+                <prop k="line_color" v="0,0,0,255"/>
+                <prop k="line_style" v="solid"/>
+                <prop k="line_width" v="0"/>
+                <prop k="line_width_unit" v="MM"/>
+                <prop k="offset" v="0"/>
+                <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="offset_unit" v="MM"/>
+                <prop k="use_custom_dash" v="0"/>
+                <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
+              </layer>
+            </symbol>
+          </lineStyle>
+          <markerStyle>
+            <symbol alpha="1" clip_to_extent="1" type="marker" name="">
+              <layer pass="0" class="SimpleMarker" locked="0">
+                <prop k="angle" v="0"/>
+                <prop k="color" v="0,0,0,255"/>
+                <prop k="horizontal_anchor_point" v="1"/>
+                <prop k="joinstyle" v="bevel"/>
+                <prop k="name" v="circle"/>
+                <prop k="offset" v="0,0"/>
+                <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="offset_unit" v="MM"/>
+                <prop k="outline_color" v="0,0,0,255"/>
+                <prop k="outline_style" v="solid"/>
+                <prop k="outline_width" v="0"/>
+                <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="outline_width_unit" v="MM"/>
+                <prop k="scale_method" v="diameter"/>
+                <prop k="size" v="2"/>
+                <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="size_unit" v="MM"/>
+                <prop k="vertical_anchor_point" v="1"/>
+              </layer>
+            </symbol>
+          </markerStyle>
+          <annotationFontProperties description="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" style=""/>
+        </ComposerMapGrid>
         <AtlasMap scalingMode="2" atlasDriven="0" margin="0.10000000000000001"/>
         <ComposerItem pagey="0" page="1" id="" lastValidViewScaleFactor="2.88781" positionMode="0" positionLock="false" x="0" y="0" visibility="1" zValue="1" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="297" outlineWidth="0.3" excludeFromExports="0" uuid="{bddfbfcf-4f1a-413c-b4b2-eaeef3c0de23}" height="210" itemRotation="0" frame="false" pagex="0">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
@@ -413,7 +461,7 @@
         </symbol>
       </SingleCategoryDiagramRenderer>
       <DiagramLayerSettings yPosColumn="-1" showColumn="-1" linePlacementFlags="10" placement="0" dist="0" xPosColumn="-1" priority="0" obstacle="0" zIndex="0" showAll="1"/>
-      <annotationform></annotationform>
+      <annotationform>.</annotationform>
       <aliases>
         <alias field="name" index="0" name=""/>
       </aliases>
@@ -426,10 +474,10 @@
           <column width="-1" hidden="1" type="actions"/>
         </columns>
       </attributetableconfig>
-      <editform></editform>
+      <editform>.</editform>
       <editforminit/>
       <editforminitcodesource>0</editforminitcodesource>
-      <editforminitfilepath></editforminitfilepath>
+      <editforminitfilepath>.</editforminitfilepath>
       <editforminitcode><![CDATA[# -*- coding: utf-8 -*-
 """
 QGIS forms can have a Python function that is called when the form is
@@ -1016,6 +1064,7 @@ def my_form_open(dialog, layer, feature):
       <SingleCategoryDiagramRenderer diagramType="Histogram" sizeLegend="0" attributeLegend="1">
         <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" sizeScale="0,0,0,0,0,0" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" lineSizeScale="0,0,0,0,0,0" sizeType="MM" lineSizeType="MM" minScaleDenominator="inf">
           <fontProperties description="Noto Sans,10,-1,0,50,0,0,0,0,0" style=""/>
+          <attribute field="" color="#000000" label=""/>
         </DiagramCategory>
         <symbol alpha="1" clip_to_extent="1" type="marker" name="sizeSymbol">
           <layer pass="0" class="SimpleMarker" locked="0">
@@ -1041,7 +1090,7 @@ def my_form_open(dialog, layer, feature):
         </symbol>
       </SingleCategoryDiagramRenderer>
       <DiagramLayerSettings yPosColumn="-1" showColumn="-1" linePlacementFlags="10" placement="0" dist="0" xPosColumn="-1" priority="0" obstacle="0" zIndex="0" showAll="1"/>
-      <annotationform></annotationform>
+      <annotationform>.</annotationform>
       <aliases>
         <alias field="fid" index="0" name=""/>
       </aliases>
@@ -1054,10 +1103,10 @@ def my_form_open(dialog, layer, feature):
           <column width="-1" hidden="1" type="actions"/>
         </columns>
       </attributetableconfig>
-      <editform></editform>
+      <editform>.</editform>
       <editforminit/>
       <editforminitcodesource>0</editforminitcodesource>
-      <editforminitfilepath></editforminitfilepath>
+      <editforminitfilepath>.</editforminitfilepath>
       <editforminitcode><![CDATA[# -*- coding: utf-8 -*-
 """
 QGIS forms can have a Python function that is called when the form is
@@ -1166,7 +1215,7 @@ def my_form_open(dialog, layer, feature):
         <multilineenabled fieldname="" on=""/>
         <selectedonly on=""/>
       </labelattributes>
-      <annotationform></annotationform>
+      <annotationform>.</annotationform>
       <aliases>
         <alias field="name" index="0" name=""/>
       </aliases>
@@ -1176,10 +1225,10 @@ def my_form_open(dialog, layer, feature):
       <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
         <columns/>
       </attributetableconfig>
-      <editform></editform>
+      <editform>.</editform>
       <editforminit/>
       <editforminitcodesource>0</editforminitcodesource>
-      <editforminitfilepath></editforminitfilepath>
+      <editforminitfilepath>.</editforminitfilepath>
       <editforminitcode><![CDATA[]]></editforminitcode>
       <featformsuppress>0</featformsuppress>
       <editorlayout>generatedlayout</editorlayout>
@@ -1492,7 +1541,7 @@ def my_form_open(dialog, layer, feature):
         </symbol>
       </SingleCategoryDiagramRenderer>
       <DiagramLayerSettings yPosColumn="-1" showColumn="-1" linePlacementFlags="10" placement="2" dist="0" xPosColumn="-1" priority="0" obstacle="0" zIndex="0" showAll="1"/>
-      <annotationform></annotationform>
+      <annotationform>.</annotationform>
       <aliases>
         <alias field="fid" index="0" name=""/>
         <alias field="osm_id" index="1" name=""/>
@@ -1514,7 +1563,7 @@ def my_form_open(dialog, layer, feature):
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
       <attributeactions default="-1"/>
-      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="-2039533232">
+      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
         <columns>
           <column width="-1" hidden="0" type="field" name="fid"/>
           <column width="-1" hidden="0" type="field" name="osm_id"/>
@@ -1535,10 +1584,10 @@ def my_form_open(dialog, layer, feature):
           <column width="-1" hidden="1" type="actions"/>
         </columns>
       </attributetableconfig>
-      <editform></editform>
+      <editform>.</editform>
       <editforminit/>
       <editforminitcodesource>0</editforminitcodesource>
-      <editforminitfilepath></editforminitfilepath>
+      <editforminitfilepath>.</editforminitfilepath>
       <editforminitcode><![CDATA[# -*- coding: utf-8 -*-
 """
 QGIS forms can have a Python function that is called when the form is
@@ -1856,6 +1905,7 @@ def my_form_open(dialog, layer, feature):
       <SingleCategoryDiagramRenderer diagramType="Histogram" sizeLegend="0" attributeLegend="1">
         <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" sizeScale="0,0,0,0,0,0" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" lineSizeScale="0,0,0,0,0,0" sizeType="MM" lineSizeType="MM" minScaleDenominator="inf">
           <fontProperties description="Noto Sans,10,-1,0,50,0,0,0,0,0" style=""/>
+          <attribute field="" color="#000000" label=""/>
         </DiagramCategory>
         <symbol alpha="1" clip_to_extent="1" type="marker" name="sizeSymbol">
           <layer pass="0" class="SimpleMarker" locked="0">
@@ -1881,7 +1931,7 @@ def my_form_open(dialog, layer, feature):
         </symbol>
       </SingleCategoryDiagramRenderer>
       <DiagramLayerSettings yPosColumn="-1" showColumn="-1" linePlacementFlags="10" placement="2" dist="0" xPosColumn="-1" priority="0" obstacle="0" zIndex="0" showAll="1"/>
-      <annotationform></annotationform>
+      <annotationform>.</annotationform>
       <aliases>
         <alias field="fid" index="0" name=""/>
         <alias field="osm_id" index="1" name=""/>
@@ -1903,7 +1953,7 @@ def my_form_open(dialog, layer, feature):
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
       <attributeactions default="-1"/>
-      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="64">
+      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
         <columns>
           <column width="-1" hidden="0" type="field" name="fid"/>
           <column width="-1" hidden="0" type="field" name="osm_id"/>
@@ -1924,10 +1974,10 @@ def my_form_open(dialog, layer, feature):
           <column width="-1" hidden="1" type="actions"/>
         </columns>
       </attributetableconfig>
-      <editform></editform>
+      <editform>.</editform>
       <editforminit/>
       <editforminitcodesource>0</editforminitcodesource>
-      <editforminitfilepath></editforminitfilepath>
+      <editforminitfilepath>.</editforminitfilepath>
       <editforminitcode><![CDATA[# -*- coding: utf-8 -*-
 """
 QGIS forms can have a Python function that is called when the form is
@@ -2517,7 +2567,7 @@ def my_form_open(dialog, layer, feature):
         </symbol>
       </SingleCategoryDiagramRenderer>
       <DiagramLayerSettings yPosColumn="-1" showColumn="-1" linePlacementFlags="10" placement="0" dist="0" xPosColumn="-1" priority="0" obstacle="0" zIndex="0" showAll="1"/>
-      <annotationform></annotationform>
+      <annotationform>.</annotationform>
       <aliases>
         <alias field="name" index="0" name=""/>
         <alias field="wikidata" index="1" name=""/>
@@ -2528,7 +2578,7 @@ def my_form_open(dialog, layer, feature):
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
       <attributeactions default="-1"/>
-      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="2122244256">
+      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
         <columns>
           <column width="-1" hidden="0" type="field" name="id"/>
           <column width="-1" hidden="0" type="field" name="name"/>
@@ -2536,10 +2586,10 @@ def my_form_open(dialog, layer, feature):
           <column width="-1" hidden="1" type="actions"/>
         </columns>
       </attributetableconfig>
-      <editform></editform>
+      <editform>.</editform>
       <editforminit/>
       <editforminitcodesource>0</editforminitcodesource>
-      <editforminitfilepath></editforminitfilepath>
+      <editforminitfilepath>.</editforminitfilepath>
       <editforminitcode><![CDATA[# -*- coding: utf-8 -*-
 """
 QGIS forms can have a Python function that is called when the form is
@@ -2827,6 +2877,7 @@ def my_form_open(dialog, layer, feature):
       <SingleCategoryDiagramRenderer diagramType="Histogram" sizeLegend="0" attributeLegend="1">
         <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" sizeScale="0,0,0,0,0,0" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" lineSizeScale="0,0,0,0,0,0" sizeType="MM" lineSizeType="MM" minScaleDenominator="inf">
           <fontProperties description="Noto Sans,10,-1,0,50,0,0,0,0,0" style=""/>
+          <attribute field="" color="#000000" label=""/>
         </DiagramCategory>
         <symbol alpha="1" clip_to_extent="1" type="marker" name="sizeSymbol">
           <layer pass="0" class="SimpleMarker" locked="0">
@@ -2868,7 +2919,7 @@ def my_form_open(dialog, layer, feature):
       <editform>.</editform>
       <editforminit/>
       <editforminitcodesource>0</editforminitcodesource>
-      <editforminitfilepath></editforminitfilepath>
+      <editforminitfilepath>.</editforminitfilepath>
       <editforminitcode><![CDATA[# -*- coding: utf-8 -*-
 """
 QGIS forms can have a Python function that is called when the form is

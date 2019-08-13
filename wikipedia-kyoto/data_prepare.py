@@ -1,4 +1,5 @@
 
+import os,requests
 #download, filter and convert OSM data to GIS layers
 
 #download
@@ -39,25 +40,25 @@ other_relations
 '''
 filters=list()
 filter={}
-filter['filter'] = 'highway=trunk'
+filter['filter'] = 'all highway=trunk'
 filter['name'] = 'road freeway'
 filter['geom_type'] = 'lines'
 filters.append(filter)
 
 filter={}
-filter['filter'] = 'highway=motorway'
-filter['name'] = 'road major'
+filter['filter'] = 'all highway=motorway'
+filter['name'] = 'road 1'
 filter['geom_type'] = 'lines'
 filters.append(filter)
 
 filter={}
-filter['filter'] = 'highway=primary'
-filter['name'] = 'road mainor'
+filter['filter'] = 'all highway=primary'
+filter['name'] = 'road 2'
 filter['geom_type'] = 'lines'
 filters.append(filter)
 
 filter={}
-filter['filter'] = 'railway=rail
+filter['filter'] = 'all railway=rail'
 filter['name'] = 'rail'
 filter['geom_type'] = 'lines'
 filters.append(filter)
@@ -65,12 +66,12 @@ filters.append(filter)
 
 #filtering
 for filter in filters:
-    cmd = 'osmfilter {source} --keep-tags="{filter}" -o={output}.osm'
+    cmd = 'osmfilter "{source}" --keep-tags="{filter}" -o="{output}.osm"'
     cmd = cmd.format(source=clipped,filter=filter['filter'],output=filter['name'])
     print(cmd)
     os.system(cmd)
     
-    cmd='ogr2ogr -f GeoJSON -overwrite {name}.geojson {name}.osm {geom_type}'
+    cmd='ogr2ogr -f GeoJSON -overwrite "{name}.geojson" "{name}.osm" {geom_type}'
     cmd = cmd.format(name=filter['name'],geom_type=filter['geom_type'])
     print(cmd)
     os.system(cmd)

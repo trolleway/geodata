@@ -72,3 +72,5 @@ for filter in filters:
     
     cmd='ogr2ogr -f GeoJSON -overwrite {name}.geojson {name}.osm {geom_type}'
     cmd = cmd.format(name=filter['name'],geom_type=filter['geom_type'])
+    print(cmd)
+    os.system(cmd)

@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "Gornoblagodatskie zavody",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name_ru": "Кушвинский" }, "geometry": { "type": "Point", "coordinates": [ 59.745494673288626, 58.287716929497833 ] } },
+{ "type": "Feature", "properties": { "name_ru": "Баранчинский" }, "geometry": { "type": "Point", "coordinates": [ 59.693853558049049, 58.159934906407337 ] } },
+{ "type": "Feature", "properties": { "name_ru": "Верхнетурьинский" }, "geometry": { "type": "Point", "coordinates": [ 59.816237661991337, 58.361786033857001 ] } },
+{ "type": "Feature", "properties": { "name_ru": "Серебрянский" }, "geometry": { "type": "Point", "coordinates": [ 58.94031714663312, 57.970334285182673 ] } },
+{ "type": "Feature", "properties": { "name_ru": "Нижнетурьинский" }, "geometry": { "type": "Point", "coordinates": [ 59.869339336222886, 58.617016874148852 ] } }
+]
+}

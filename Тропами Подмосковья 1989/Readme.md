@@ -11,6 +11,11 @@
  - Книжка 1989 года ссылается на деревни, которые подписаны на топокартах того же советского времени. На современных картах приоритет подписей может не совпадать, и эти деревни можно не найти.
  
  ```
+ # Attribution
+ 
+ Popadejkin, Vitalij I., Vladimir V. Strukov, and Aleksej M. Tarunov. 1989. Tropami Podmoskov'ja: putevoditel' ; [100 maršrutov]. Moskva: Moskov. Rabočij.
+ Popadeĭkin, V. (Vitaliĭ). Tropami Podmoskovʹi︠a︡ : putevoditelʹ. — 4-e izd., dop. i perer. — [Moskva]: Moskovskiĭ rabochiĭ, 1989. — 410 pages с. — ISBN 5239000549, 9785239000540.
+ 
  # Usage
  
  Набор данных представляет собой линейный векторный слой в WGS84 (EPSG:4326), лежащий в файле tropami_podmoskoviya.gpkg

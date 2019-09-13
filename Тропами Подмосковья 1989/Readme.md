@@ -14,6 +14,7 @@
  # Attribution
  
  Popadejkin, Vitalij I., Vladimir V. Strukov, and Aleksej M. Tarunov. 1989. Tropami Podmoskov'ja: putevoditel' ; [100 maršrutov]. Moskva: Moskov. Rabočij.
+ 
  Popadeĭkin, V. (Vitaliĭ). Tropami Podmoskovʹi︠a︡ : putevoditelʹ. — 4-e izd., dop. i perer. — [Moskva]: Moskovskiĭ rabochiĭ, 1989. — 410 pages с. — ISBN 5239000549, 9785239000540.
  
  # Usage

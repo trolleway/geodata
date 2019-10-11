@@ -4,13 +4,21 @@
       <SrcDataSource relativeToVRT="1">Aleksandrov-Zilevo.geojson</SrcDataSource>
       <SrcLayer>Aleksandrov-Zilevo</SrcLayer>
     </OGRVRTLayer>
-    <OGRVRTLayer name="Bryansk loop">
-      <SrcDataSource relativeToVRT="1">Bryansk loop.geojson</SrcDataSource>
-      <SrcLayer>Bryansk loop</SrcLayer>
+    <OGRVRTLayer name="Bataisk-Kizilurt">
+      <SrcDataSource relativeToVRT="1">Bataisk-Kizilurt.geojson</SrcDataSource>
+      <SrcLayer>Bataisk-Kizilurt</SrcLayer>
+    </OGRVRTLayer>
+    <OGRVRTLayer name="Bataisk-Salsk">
+      <SrcDataSource relativeToVRT="1">Bataisk-Salsk.geojson</SrcDataSource>
+      <SrcLayer>Bataisk-Salsk</SrcLayer>
     </OGRVRTLayer>
     <OGRVRTLayer name="Bryansk-Gomel">
       <SrcDataSource relativeToVRT="1">Bryansk-Gomel.geojson</SrcDataSource>
       <SrcLayer>Bryansk-Gomel</SrcLayer>
+    </OGRVRTLayer>
+    <OGRVRTLayer name="Bryansk loop">
+      <SrcDataSource relativeToVRT="1">Bryansk loop.geojson</SrcDataSource>
+      <SrcLayer>Bryansk loop</SrcLayer>
     </OGRVRTLayer>
     <OGRVRTLayer name="Chupa1">
       <SrcDataSource relativeToVRT="1">Chupa1.geojson</SrcDataSource>
@@ -176,6 +184,10 @@
       <SrcDataSource relativeToVRT="1">Rybnoye-Stenkovo.geojson</SrcDataSource>
       <SrcLayer>Rybnoye-Stenkovo</SrcLayer>
     </OGRVRTLayer>
+    <OGRVRTLayer name="Saratov-Sviyazsk">
+      <SrcDataSource relativeToVRT="1">Saratov-Sviyazsk.geojson</SrcDataSource>
+      <SrcLayer>Saratov-Sviyazsk</SrcLayer>
+    </OGRVRTLayer>
     <OGRVRTLayer name="SPB-Fin - Vainikala">
       <SrcDataSource relativeToVRT="1">SPB-Fin - Vainikala.geojson</SrcDataSource>
       <SrcLayer>SPB-Fin - Vainikala</SrcLayer>
@@ -204,9 +216,25 @@
       <SrcDataSource relativeToVRT="1">Veimarn-Luga.geojson</SrcDataSource>
       <SrcLayer>Veimarn-Luga</SrcLayer>
     </OGRVRTLayer>
+    <OGRVRTLayer name="Volgograd2 - Krasnodar">
+      <SrcDataSource relativeToVRT="1">Volgograd2 - Krasnodar.geojson</SrcDataSource>
+      <SrcLayer>Volgograd2 - Krasnodar</SrcLayer>
+    </OGRVRTLayer>
     <OGRVRTLayer name="Volgograd-Derbent">
       <SrcDataSource relativeToVRT="1">Volgograd-Derbent.geojson</SrcDataSource>
       <SrcLayer>Volgograd-Derbent</SrcLayer>
+    </OGRVRTLayer>
+    <OGRVRTLayer name="Volgograd-Kanalnaya">
+      <SrcDataSource relativeToVRT="1">Volgograd-Kanalnaya.geojson</SrcDataSource>
+      <SrcLayer>Volgograd-Kanalnaya</SrcLayer>
+    </OGRVRTLayer>
+    <OGRVRTLayer name="Volgograd-Likhaya">
+      <SrcDataSource relativeToVRT="1">Volgograd-Likhaya.geojson</SrcDataSource>
+      <SrcLayer>Volgograd-Likhaya</SrcLayer>
+    </OGRVRTLayer>
+    <OGRVRTLayer name="Volgograd-obkhod">
+      <SrcDataSource relativeToVRT="1">Volgograd-obkhod.geojson</SrcDataSource>
+      <SrcLayer>Volgograd-obkhod</SrcLayer>
     </OGRVRTLayer>
     <OGRVRTLayer name="Vsevoloszk-Ladoga">
       <SrcDataSource relativeToVRT="1">Vsevoloszk-Ladoga.geojson</SrcDataSource>

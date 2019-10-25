@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "norilsk-stations",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1, "name": "Норильск", "name_en": "Norilsk", "lx": 88.271182875777129, "ly": 69.34239439989986, "halign": "Left", "valign": "Half" }, "geometry": { "type": "Point", "coordinates": [ 88.136535664689632, 69.356968436419436 ] } },
+{ "type": "Feature", "properties": { "fid": 2, "name": "Кайеркан", "name_en": "Kayerkan", "lx": 87.759028726788088, "ly": 69.388474281588927, "halign": "Right", "valign": null }, "geometry": { "type": "Point", "coordinates": [ 87.737350864420478, 69.35226835423282 ] } },
+{ "type": "Feature", "properties": { "fid": 3, "name": "Аэропорт", "name_en": "Aeroport", "lx": 87.33801953546255, "ly": 69.328639489553566, "halign": "Right", "valign": "Top" }, "geometry": { "type": "Point", "coordinates": [ 87.341746742559067, 69.327537592077334 ] } },
+{ "type": "Feature", "properties": { "fid": 4, "name": "Дудинка", "name_en": "Dudinka", "lx": null, "ly": null, "halign": null, "valign": null }, "geometry": { "type": "Point", "coordinates": [ 86.15878367668023, 69.407986864868462 ] } },
+{ "type": "Feature", "properties": { "fid": 5, "name": "Талнах", "name_en": "Talnakh", "lx": 88.356620669954907, "ly": 69.483887533937562, "halign": "Right", "valign": "Half" }, "geometry": { "type": "Point", "coordinates": [ 88.398177821442431, 69.482857146848175 ] } }
+]
+}

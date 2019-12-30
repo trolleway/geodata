@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Новгород",
+        "name:en": "Novgorod"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.26571655273438,
+          58.52059619001854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Чудово",
+        "name:en": "Chudovo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.679334640502926,
+          59.12267106435856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Волхов",
+        "name:en": "Volkhov"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.32847213745117,
+          59.92775373611061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Мясной Бор",
+        "name:en": "Myasnoy Bor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.472826004028317,
+          58.82071887961916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Спасская Полисть",
+        "name:en": "Spasskaya Polist"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.505184173583984,
+          58.928087498910195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Любань",
+        "name:en": "Luban"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.250953674316406,
+          59.35139598294652
+        ]
+      }
+    }
+  ]
+}

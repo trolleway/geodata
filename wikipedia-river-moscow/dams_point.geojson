@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "dams_point",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "angle_r": 300.0, "name": "Можайский гидроузел" }, "geometry": { "type": "Point", "coordinates": [ 35.952317434201298, 55.534552714414652 ] } },
+{ "type": "Feature", "properties": { "angle_r": 180.0, "name": "Химкинская плотина" }, "geometry": { "type": "Point", "coordinates": [ 37.475490145001189, 55.826215990300717 ] } },
+{ "type": "Feature", "properties": { "angle_r": 315.0, "name": "Пироговская" }, "geometry": { "type": "Point", "coordinates": [ 37.718568956197785, 55.974882164475829 ] } },
+{ "type": "Feature", "properties": { "angle_r": 90.0, "name": "Иваньковская ГЭС" }, "geometry": { "type": "Point", "coordinates": [ 36.866212224801885, 56.801373369842999 ] } },
+{ "type": "Feature", "properties": { "angle_r": 110.0, "name": "Трудкоммуна" }, "geometry": { "type": "Point", "coordinates": [ 37.797854026489858, 55.613351192937941 ] } },
+{ "type": "Feature", "properties": { "angle_r": 90.0, "name": "Трудкоммуна" }, "geometry": { "type": "Point", "coordinates": [ 37.820207661050482, 55.616812659412176 ] } }
+]
+}

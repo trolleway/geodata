@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "dams",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 35.960687916679362, 55.540039278492195 ], [ 35.945860204859024, 55.531648416409425 ] ] ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 37.472815576551746, 55.831266675449449 ], [ 37.476163769543433, 55.828277984865998 ] ] ] } }
+]
+}

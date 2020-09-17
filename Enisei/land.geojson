@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "land",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 51.856885547795756, 69.602217916597212 ], [ 144.723155950199157, 61.42945445275155 ], [ 119.818095999797748, 44.628360682964264 ], [ 68.3424234805412, 49.109427610567238 ], [ 51.856885547795756, 69.602217916597212 ] ] ] ] } }
+]
+}

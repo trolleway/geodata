@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "towns",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Красноярск" }, "geometry": { "type": "Point", "coordinates": [ 92.882, 56.008 ] } },
+{ "type": "Feature", "properties": { "name": "Енисейск" }, "geometry": { "type": "Point", "coordinates": [ 92.173127603187865, 58.456139519173227 ] } },
+{ "type": "Feature", "properties": { "name": "Бор" }, "geometry": { "type": "Point", "coordinates": [ 90.035312066308279, 61.59549866964278 ] } },
+{ "type": "Feature", "properties": { "name": "Туруханск" }, "geometry": { "type": "Point", "coordinates": [ 87.965664161846206, 65.794964083714987 ] } },
+{ "type": "Feature", "properties": { "name": "Игарка" }, "geometry": { "type": "Point", "coordinates": [ 86.524500523390017, 67.457401997374262 ] } },
+{ "type": "Feature", "properties": { "name": "Дудинка" }, "geometry": { "type": "Point", "coordinates": [ 86.174074884583746, 69.406201616422877 ] } }
+]
+}

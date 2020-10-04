@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"name": "Chapaev",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Самара", "name_en": "Samara" }, "geometry": { "type": "Point", "coordinates": [ 50.122, 53.185 ] } },
+{ "type": "Feature", "properties": { "name": "Уральск", "name_en": "Uralsk" }, "geometry": { "type": "Point", "coordinates": [ 51.37, 51.229 ] } },
+{ "type": "Feature", "properties": { "name": "Александров Гай", "name_en": "Aleksandrov Gai" }, "geometry": { "type": "Point", "coordinates": [ 48.536, 50.134 ] } },
+{ "type": "Feature", "properties": { "name": "Сломихинская", "name_en": "Slomikhinskaya" }, "geometry": { "type": "Point", "coordinates": [ 49.472, 49.663 ] } },
+{ "type": "Feature", "properties": { "name": "Бузулук", "name_en": "Buzuluk" }, "geometry": { "type": "Point", "coordinates": [ 52.271, 52.768 ] } },
+{ "type": "Feature", "properties": { "name": "Бугуруслан", "name_en": "Buguruslan" }, "geometry": { "type": "Point", "coordinates": [ 52.422, 53.625 ] } },
+{ "type": "Feature", "properties": { "name": "Белебей", "name_en": "Belelei" }, "geometry": { "type": "Point", "coordinates": [ 54.114, 54.104 ] } },
+{ "type": "Feature", "properties": { "name": "Пилюгино", "name_en": "Pulygino" }, "geometry": { "type": "Point", "coordinates": [ 52.414678999922288, 53.401262673537175 ] } },
+{ "type": "Feature", "properties": { "name": "Давлеканово", "name_en": "Davlekanovo" }, "geometry": { "type": "Point", "coordinates": [ 55.031879598669811, 54.217204581035041 ] } },
+{ "type": "Feature", "properties": { "name": "Чишмы", "name_en": "Chimshy" }, "geometry": { "type": "Point", "coordinates": [ 55.393164543522374, 54.586095019444627 ] } },
+{ "type": "Feature", "properties": { "name": "Уфа", "name_en": "Ufa" }, "geometry": { "type": "Point", "coordinates": [ 55.944822117395603, 54.724124417461191 ] } },
+{ "type": "Feature", "properties": { "name": "Лбищенск", "name_en": "Lbishensk" }, "geometry": { "type": "Point", "coordinates": [ 51.171122682130559, 50.186950752219055 ] } },
+{ "type": "Feature", "properties": { "name": "Гурьев", "name_en": "Guriev" }, "geometry": { "type": "Point", "coordinates": [ 51.917383387891583, 47.102377171310614 ] } }
+]
+}

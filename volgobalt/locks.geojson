@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "locks",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Нижне-Свирский гидроузел", "lx": "33.53886256058878", "ly": "60.23129612734739", "ha": "Right", "va": "Top", "ly_1": 0.0, "va_s": "Right" }, "geometry": { "type": "Point", "coordinates": [ 33.708345684834121, 60.805718547281415 ] } },
+{ "type": "Feature", "properties": { "name": "Верхне-Свирский гидроузел", "lx": "32.97565346943361", "ly": "61.70383463290053", "ha": "Right" }, "geometry": { "type": "Point", "coordinates": [ 34.191510665106669, 60.917141461279734 ] } },
+{ "type": "Feature", "properties": { "name": "Вытегорский гидроузел", "lx": "34.75611238292423", "ly": "62.47006703153547", "ha": "Center" }, "geometry": { "type": "Point", "coordinates": [ 36.424415832017452, 61.007763968612409 ] } },
+{ "type": "Feature", "properties": { "name": "Белоусовский гидроузел", "lx": "37.22251447815547", "ly": "62.03600063585273" }, "geometry": { "type": "Point", "coordinates": [ 36.547544400677751, 60.948688280297276 ] } },
+{ "type": "Feature", "properties": { "name": "3 шлюз", "lx": "37.85123946343164", "ly": "61.56000910383641" }, "geometry": { "type": "Point", "coordinates": [ 36.649614230598615, 60.94365596735576 ] } },
+{ "type": "Feature", "properties": { "name": "4 шлюз", "lx": "38.46676716874112", "ly": "61.088767648633734" }, "geometry": { "type": "Point", "coordinates": [ 36.672687884198318, 60.943387554984014 ] } },
+{ "type": "Feature", "properties": { "name": "5 шлюз", "lx": "38.75574716502585", "ly": "60.81911911850869", "va": "Top" }, "geometry": { "type": "Point", "coordinates": [ 36.695421880721582, 60.942473258358802 ] } },
+{ "type": "Feature", "properties": { "name": "6 шлюз", "lx": "38.68406039033399", "ly": "60.403451585802785", "va": "Top" }, "geometry": { "type": "Point", "coordinates": [ 36.767797622501909, 60.909171624006973 ] } },
+{ "type": "Feature", "properties": { "name": "7 шлюз", "lx": "37.525403749093755", "ly": "59.24786898599366", "ha": "Right" }, "geometry": { "type": "Point", "coordinates": [ 38.497722924921291, 59.234868314231782 ] } },
+{ "type": "Feature", "properties": { "name": "8 шлюз", "lx": "39.03034755425327", "ly": "59.252883640064766" }, "geometry": { "type": "Point", "coordinates": [ 38.50053229192644, 59.235174568883636 ] } }
+]
+}

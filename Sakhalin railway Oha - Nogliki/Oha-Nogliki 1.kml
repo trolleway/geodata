@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Oha-Nogliki 1.kml</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Мои метки</name>
+		<open>1</open>
+		<Style>
+			<ListStyle>
+				<listItemType>check</listItemType>
+				<ItemIcon>
+					<state>open</state>
+					<href>:/mysavedplaces_open.png</href>
+				</ItemIcon>
+				<ItemIcon>
+					<state>closed</state>
+					<href>:/mysavedplaces_closed.png</href>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+		<Placemark>
+			<name>Путь без названия</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					142.8753203121193,53.57829038233717,0 142.8784055499,53.57521339805585,0 142.8786109457609,53.57494780903213,0 142.8788690198368,53.57436090876634,0 142.8793503747958,53.57372390360791,0 142.8810037955351,53.57180142456839,0 142.8817755082882,53.57034291197539,0 142.8828448517141,53.56948859222638,0 142.8847525793736,53.56825318310769,0 142.8867012176383,53.56735208856972,0 142.8883426500372,53.56707822819784,0 142.8895652486872,53.56714837408462,0 142.8942573408224,53.56858755453259,0 142.8955525182944,53.56887160849923,0 142.8966803469728,53.56891057961994,0 142.9066832776549,53.56862061477685,0 142.9103662131724,53.56884226618594,0 142.9154983574196,53.56891329416891,0 142.916875110314,53.56909394270083,0 142.9176707523315,53.56942105443376,0 142.9184464717889,53.56994604161743,0 142.9190554085446,53.57078541598874,0 142.9196103851102,53.57362763303671,0 142.9205277375626,53.57486835305477,0 142.9218565666781,53.57536294950843,0 142.9231122423549,53.5754939161322,0 142.9254730654737,53.57536011652616,0 142.9261739614848,53.57528982503593,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>УЖД Оха-Ноглики</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					142.9262339860502,53.57528103584292,0 142.9250266273829,53.5751241990286,0 142.9227466166234,53.57530258884731,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Путь без названия</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					142.9262343886309,53.57526832469898,0 142.9278687874946,53.57556264691371,0 142.9282606105251,53.5756512099434,0 142.9310857552225,53.57737140170197,0 142.9325735189653,53.5792978743736,0 142.9334476634699,53.57990728824336,0 142.936679587017,53.58118483878438,0 142.9374943328122,53.58132107826134,0 142.9384629401717,53.58131232218189,0 142.9398306933141,53.58116701042835,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Путь без названия</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					142.9398952815893,53.5811646195908,0 142.9480634569109,53.57861667199896,0 142.9492527044986,53.57816812287362,0 142.9497658522222,53.57778181761763,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Путь без названия</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					142.9399305831432,53.58114134317945,0 142.9389898234528,53.58147753162373,0 142.9386519820075,53.58168779005745,0 142.938444590625,53.58210950956861,0 142.9381262198158,53.58269327902819,0 142.937829695378,53.58304152645997,0 142.9374078815073,53.58325005002612,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Путь без названия</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					142.939018417644,53.58144352631344,0 142.9379198293933,53.5817631250229,0 142.9370490612174,53.58178435314537,0 142.9360245031149,53.58153205023601,0 142.9346053642371,53.5811881705098,0 142.9334878396099,53.5810795028118,0 142.9323922633666,53.58089747947996,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Путь без названия</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					142.9329949415619,53.580797528654,0 142.9345466190904,53.58106374857685,0 142.935352328858,53.58110163408404,0 142.9367487822383,53.58132119573802,0 142.9375353856523,53.5813933927806,0 142.9384312855816,53.58130612265965,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Путь без названия</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					142.934402231703,53.58117981760618,0 142.9343961307597,53.58118308840942,0 142.9329247391368,53.58117627286516,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Путь без названия</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					142.93399138703,53.5811278766028,0 142.932925152134,53.5811063113698,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Путь без названия</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					142.9406212647591,53.58093575022234,0 142.9410900954658,53.58085133356233,0 142.9431815587674,53.58020104232443,0 142.9436095143932,53.57999595904371,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Путь без названия</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					142.9411067819667,53.58084378537772,0 142.9407263913197,53.5810166085067,0 142.9400756592308,53.58147456655567,0 142.9393853533531,53.58185496849188,0 142.938964943784,53.58216560441512,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Путь без названия</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					142.9405591197886,53.58113210517408,0 142.9398221638032,53.58209939521152,0 142.9393601233262,53.58245025483323,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Путь без названия</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					142.9497599494396,53.57778657655064,0 142.9523321946349,53.57379355188412,0 142.9552988114773,53.57166065530251,0 142.9696936271958,53.5564187430117,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Путь без названия</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					142.9614809492587,53.56512271099837,0 142.9615040447421,53.56470929515456,0 142.9609158351473,53.56365227604618,0 142.9602502877641,53.56327603592805,0 142.9597921925107,53.56269727454221,0 142.9594723380863,53.56157558493152,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Путь без названия</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					142.9523394002752,53.573788104447,0 142.9534100914583,53.57184536878859,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

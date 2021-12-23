@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "markers",
+"features": [
+{ "type": "Feature", "properties": { "name_loc": "Степногорск", "name_int": "Stepnogorsk", "start_date": null, "end_date": null }, "geometry": { "type": "Point", "coordinates": [ 71.88009121352772, 52.354311100072103 ] } },
+{ "type": "Feature", "properties": { "name_loc": "Промышленная", "name_int": "Promislennaya", "start_date": null, "end_date": null }, "geometry": { "type": "Point", "coordinates": [ 72.041587677528895, 52.470870485776395 ] } },
+{ "type": "Feature", "properties": { "name_loc": "Заводская", "name_int": "Zavodskaya", "start_date": null, "end_date": null }, "geometry": { "type": "Point", "coordinates": [ 72.00845903569224, 52.469800697176503 ] } },
+{ "type": "Feature", "properties": { "name_loc": "ГМЗ", "name_int": "GMZ", "start_date": null, "end_date": null }, "geometry": { "type": "Point", "coordinates": [ 72.03515229156335, 52.487714501637278 ] } },
+{ "type": "Feature", "properties": { "name_loc": "СПЗ", "name_int": "SPZ", "start_date": null, "end_date": null }, "geometry": { "type": "Point", "coordinates": [ 71.974559960324541, 52.420652133301914 ] } }
+]
+}

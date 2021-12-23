@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"name": "background",
+"features": [
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -179.99, 89.99, 0.0 ], [ 179.99, 89.99, 0.0 ], [ 179.99, -89.99, 0.0 ], [ -179.99, -89.99, 0.0 ], [ -179.99, 89.99, 0.0 ] ] ] } }
+]
+}
